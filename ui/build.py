@@ -117,11 +117,17 @@ def split_row(line):
 
 def render_table(rows):
     head, body = rows[0], rows[2:] if len(rows) > 1 and re.match(r"^[\s|:\-]+$", rows[1]) else rows[1:]
+    heads = split_row(head)
+    labels = [html.escape(plain(c), quote=True) for c in heads]
     out = ['<div class="tw"><table><thead><tr>']
-    out += [f"<th>{inline(c)}</th>" for c in split_row(head)]
+    out += [f"<th>{inline(c)}</th>" for c in heads]
     out.append("</tr></thead><tbody>")
     for r in body:
-        out.append("<tr>" + "".join(f"<td>{inline(c)}</td>" for c in split_row(r)) + "</tr>")
+        # data-l carries the column name so narrow screens can stack each row as labelled lines.
+        # The inner span keeps mixed text and links together as one grid item when stacked.
+        cells = [f'<td data-l="{labels[n] if n < len(labels) else ""}"{"" if c else ' class="e"'}>'
+                 f"<span>{inline(c)}</span></td>" for n, c in enumerate(split_row(r))]
+        out.append("<tr>" + "".join(cells) + "</tr>")
     out.append("</tbody></table></div>")
     return "".join(out)
 
@@ -393,7 +399,7 @@ def build_flights(folder, prefix):
                 if tabs:
                     tot_s, pp_s = tabs[0]
                     it["pp"], it["total"] = pp_s, tot_s
-                    it["allin"] = "Price depends on the version chosen; see the table inside"
+                    it["note"] = "Price depends on the version chosen; see the table inside."
             else:
                 it["pp"] = pp.group(1)
                 it["total"] = tot.group(1) if tot else ""
