@@ -1,0 +1,185 @@
+{
+ "observed": "2026-11-18T00:21:42+02:00",
+ "url": "https://www.google.com/travel/flights/search?tfs=GjsSCjIwMjctMDQtMDUoAGoHCAESA1RMVnIHCAESA0xIUnIHCAESA0xHV3IHCAESA0xUTnIHCAESA1NUTho7EgoyMDI3LTA0LTA4KABqBwgBEgNMSFJqBwgBEgNMR1dqBwgBEgNMVE5qBwgBEgNTVE5yBwgBEgNUTFZCAwEBAUgBmAEB&hl=en&curr=ILS",
+ "final_url": "https://www.google.com/travel/flights/search?tfs=GjsSCjIwMjctMDQtMDUoAGoHCAESA1RMVnIHCAESA0xIUnIHCAESA0xHV3IHCAESA0xUTnIHCAESA1NUTho7EgoyMDI3LTA0LTA4KABqBwgBEgNMSFJqBwgBEgNMR1dqBwgBEgNMVE5qBwgBEgNTVE5yBwgBEgNUTFZCAwEBAUgBmAEB&hl=en&curr=ILS",
+ "expanded": false,
+ "rows": [
+  {
+   "section": "best",
+   "price_total": 5595,
+   "dur_min": 325,
+   "segs": [
+    {
+     "fn": "6H115",
+     "airline": "Israir Airlines",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LTN",
+     "dep": "2027-04-05 12:35",
+     "arr": "2027-04-05 16:00",
+     "dur_min": 325,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Israir Airlines"
+   ]
+  },
+  {
+   "section": "best",
+   "price_total": 5869,
+   "dur_min": 325,
+   "segs": [
+    {
+     "fn": "LY311",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LTN",
+     "dep": "2027-04-05 04:50",
+     "arr": "2027-04-05 08:15",
+     "dur_min": 325,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "El Al"
+   ]
+  },
+  {
+   "section": "best",
+   "price_total": 6162,
+   "dur_min": 325,
+   "segs": [
+    {
+     "fn": "LY313",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LTN",
+     "dep": "2027-04-05 16:10",
+     "arr": "2027-04-05 19:35",
+     "dur_min": 325,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "El Al"
+   ]
+  },
+  {
+   "section": "best",
+   "price_total": null,
+   "dur_min": 325,
+   "segs": [
+    {
+     "fn": "IZ911",
+     "airline": "Arkia",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "STN",
+     "dep": "2027-04-05 12:30",
+     "arr": "2027-04-05 15:55",
+     "dur_min": 325,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Arkia"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5801,
+   "dur_min": 320,
+   "segs": [
+    {
+     "fn": "W95302",
+     "airline": "Wizz Air",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LTN",
+     "dep": "2027-04-05 15:30",
+     "arr": "2027-04-05 18:50",
+     "dur_min": 320,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Wizz Air"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6562,
+   "dur_min": 335,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-05 06:00",
+     "arr": "2027-04-05 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6570,
+   "dur_min": 320,
+   "segs": [
+    {
+     "fn": "LY317",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-05 17:00",
+     "arr": "2027-04-05 20:20",
+     "dur_min": 320,
+     "aircraft": "Boeing 777"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "El Al"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 8406,
+   "dur_min": 325,
+   "segs": [
+    {
+     "fn": "LY315",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-05 10:10",
+     "arr": "2027-04-05 13:35",
+     "dur_min": 325,
+     "aircraft": "Boeing 787"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "El Al"
+   ]
+  }
+ ],
+ "text": ""
+}

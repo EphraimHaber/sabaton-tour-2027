@@ -1,0 +1,21 @@
+[project]
+name = "sabaton-tour-2027"
+version = "0.1.0"
+description = "Flight and trip research for Sabaton - The Legendary Tour Part 2 (Dublin / Lisbon / Milan) from Tel Aviv"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fast-flights>=3.1.0",
+    "flights>=0.9.0",
+    "playwright>=1.65.2",
+    "primp>=2.0.1",
+    "selectolax>=1.0.2",
+]
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+dev = [
+    "ruff>=0.17.5",
+]

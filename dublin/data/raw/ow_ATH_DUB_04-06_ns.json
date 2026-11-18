@@ -1,0 +1,53 @@
+{
+ "observed": "2026-11-18T00:24:50+02:00",
+ "url": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjctMDQtMDYoAGoHCAESA0FUSHIHCAESA0RVQkIDAQEBSAGYAQI&hl=en&curr=ILS",
+ "final_url": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjctMDQtMDYoAGoHCAESA0FUSHIHCAESA0RVQkIDAQEBSAGYAQI&hl=en&curr=ILS",
+ "expanded": false,
+ "rows": [
+  {
+   "section": "other",
+   "price_total": 978,
+   "dur_min": 265,
+   "segs": [
+    {
+     "fn": "FR5652",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "ATH",
+     "to": "DUB",
+     "dep": "2027-04-06 12:50",
+     "arr": "2027-04-06 15:15",
+     "dur_min": 265,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1233,
+   "dur_min": 270,
+   "segs": [
+    {
+     "fn": "EI441",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "ATH",
+     "to": "DUB",
+     "dep": "2027-04-06 12:55",
+     "arr": "2027-04-06 15:25",
+     "dur_min": 270,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aer Lingus"
+   ]
+  }
+ ],
+ "text": ""
+}

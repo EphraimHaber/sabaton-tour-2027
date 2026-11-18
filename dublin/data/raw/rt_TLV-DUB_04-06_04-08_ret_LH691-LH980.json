@@ -1,0 +1,313 @@
+{
+ "observed": "2026-11-17T23:58:44+02:00",
+ "url": "https://www.google.com/travel/flights/search?tfs=GmASCjIwMjctMDQtMDYiHwoDVExWEgoyMDI3LTA0LTA2GgNGUkEqAkxIMgM2OTEiHwoDRlJBEgoyMDI3LTA0LTA2GgNEVUIqAkxIMgM5ODBqBwgBEgNUTFZyBwgBEgNEVUIaHhIKMjAyNy0wNC0wOGoHCAESA0RVQnIHCAESA1RMVkIDAQEBSAGYAQE&hl=en&curr=ILS",
+ "final_url": "https://www.google.com/travel/flights/search?tfs=CBwQAhpgEgoyMDI3LTA0LTA2Ih8KA1RMVhIKMjAyNy0wNC0wNhoDRlJBKgJMSDIDNjkxIh8KA0ZSQRIKMjAyNy0wNC0wNhoDRFVCKgJMSDIDOTgwagcIARIDVExWcgcIARIDRFVCGh4SCjIwMjctMDQtMDhqBwgBEgNEVUJyBwgBEgNUTFZAAUABQAFIAXABggELCP___________wGYAQE&tfu=EgYIABABGAA&hl=en&curr=ILS",
+ "expanded": true,
+ "rows": [
+  {
+   "section": "other",
+   "price_total": 5569,
+   "dur_min": 515,
+   "segs": [
+    {
+     "fn": "LH979",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "FRA",
+     "dep": "2027-04-08 12:40",
+     "arr": "2027-04-08 15:40",
+     "dur_min": 120,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "LH690",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "TLV",
+     "dep": "2027-04-08 18:00",
+     "arr": "2027-04-08 23:15",
+     "dur_min": 255,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 140
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 7001,
+   "dur_min": 755,
+   "segs": [
+    {
+     "fn": "LX401",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "ZRH",
+     "dep": "2027-04-08 13:00",
+     "arr": "2027-04-08 16:15",
+     "dur_min": 135,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "LX256",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "ZRH",
+     "to": "TLV",
+     "dep": "2027-04-08 22:40",
+     "arr": "2027-04-09 03:35",
+     "dur_min": 235,
+     "aircraft": "Airbus A220-300 Passenger"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ZRH",
+     "dur_min": 385
+    }
+   ],
+   "airlines": [
+    "SWISS"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5969,
+   "dur_min": 675,
+   "segs": [
+    {
+     "fn": "LH983",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "FRA",
+     "dep": "2027-04-08 05:55",
+     "arr": "2027-04-08 08:55",
+     "dur_min": 120,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH694",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "TLV",
+     "dep": "2027-04-08 13:55",
+     "arr": "2027-04-08 19:10",
+     "dur_min": 255,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 300
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6448,
+   "dur_min": 500,
+   "segs": [
+    {
+     "fn": "LH977",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "FRA",
+     "dep": "2027-04-08 08:50",
+     "arr": "2027-04-08 11:50",
+     "dur_min": 120,
+     "aircraft": "Airbus A319"
+    },
+    {
+     "fn": "LH694",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "TLV",
+     "dep": "2027-04-08 13:55",
+     "arr": "2027-04-08 19:10",
+     "dur_min": 255,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 125
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 7001,
+   "dur_min": 420,
+   "segs": [
+    {
+     "fn": "LX405",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "ZRH",
+     "dep": "2027-04-08 18:35",
+     "arr": "2027-04-08 21:45",
+     "dur_min": 130,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "LX256",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "ZRH",
+     "to": "TLV",
+     "dep": "2027-04-08 22:40",
+     "arr": "2027-04-09 03:35",
+     "dur_min": 235,
+     "aircraft": "Airbus A220-300 Passenger"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ZRH",
+     "dur_min": 55
+    }
+   ],
+   "airlines": [
+    "SWISS"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6448,
+   "dur_min": 450,
+   "segs": [
+    {
+     "fn": "LH983",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "FRA",
+     "dep": "2027-04-08 05:55",
+     "arr": "2027-04-08 08:55",
+     "dur_min": 120,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH686",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "TLV",
+     "dep": "2027-04-08 10:10",
+     "arr": "2027-04-08 15:25",
+     "dur_min": 255,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 75
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5893,
+   "dur_min": 715,
+   "segs": [
+    {
+     "fn": "LH2517",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "MUC",
+     "dep": "2027-04-08 10:40",
+     "arr": "2027-04-08 14:00",
+     "dur_min": 140,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH682",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "TLV",
+     "dep": "2027-04-08 19:45",
+     "arr": "2027-04-09 00:35",
+     "dur_min": 230,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 345
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5969,
+   "dur_min": 745,
+   "segs": [
+    {
+     "fn": "LH977",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "FRA",
+     "dep": "2027-04-08 08:50",
+     "arr": "2027-04-08 11:50",
+     "dur_min": 120,
+     "aircraft": "Airbus A319"
+    },
+    {
+     "fn": "LH690",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "TLV",
+     "dep": "2027-04-08 18:00",
+     "arr": "2027-04-08 23:15",
+     "dur_min": 255,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 370
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  }
+ ],
+ "text": ""
+}

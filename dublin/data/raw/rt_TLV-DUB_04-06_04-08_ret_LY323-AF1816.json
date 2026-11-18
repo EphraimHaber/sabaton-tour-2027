@@ -1,0 +1,241 @@
+{
+ "observed": "2026-11-18T00:00:12+02:00",
+ "url": "https://www.google.com/travel/flights/search?tfs=GmESCjIwMjctMDQtMDYiHwoDVExWEgoyMDI3LTA0LTA2GgNDREcqAkxZMgMzMjMiIAoDQ0RHEgoyMDI3LTA0LTA2GgNEVUIqAkFGMgQxODE2agcIARIDVExWcgcIARIDRFVCGh4SCjIwMjctMDQtMDhqBwgBEgNEVUJyBwgBEgNUTFZCAwEBAUgBmAEB&hl=en&curr=ILS",
+ "final_url": "https://www.google.com/travel/flights/search?tfs=CBwQAhphEgoyMDI3LTA0LTA2Ih8KA1RMVhIKMjAyNy0wNC0wNhoDQ0RHKgJMWTIDMzIzIiAKA0NERxIKMjAyNy0wNC0wNhoDRFVCKgJBRjIEMTgxNmoHCAESA1RMVnIHCAESA0RVQhoeEgoyMDI3LTA0LTA4agcIARIDRFVCcgcIARIDVExWQAFAAUABSAFwAYIBCwj___________8BmAEB&tfu=EgYIABABGAA&hl=en&curr=ILS",
+ "expanded": true,
+ "rows": [
+  {
+   "section": "other",
+   "price_total": 8817,
+   "dur_min": 435,
+   "segs": [
+    {
+     "fn": "KL1142",
+     "airline": "KLM",
+     "operated_by": "KLM Cityhopper",
+     "frm": "DUB",
+     "to": "AMS",
+     "dep": "2027-04-08 17:20",
+     "arr": "2027-04-08 19:55",
+     "dur_min": 95,
+     "aircraft": "Embraer 190"
+    },
+    {
+     "fn": "KL461",
+     "airline": "KLM",
+     "operated_by": null,
+     "frm": "AMS",
+     "to": "TLV",
+     "dep": "2027-04-08 21:10",
+     "arr": "2027-04-09 02:35",
+     "dur_min": 265,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AMS",
+     "dur_min": 75
+    }
+   ],
+   "airlines": [
+    "KLM"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 11422,
+   "dur_min": 580,
+   "segs": [
+    {
+     "fn": "AF1717",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "CDG",
+     "dep": "2027-04-08 09:15",
+     "arr": "2027-04-08 12:05",
+     "dur_min": 110,
+     "aircraft": "Airbus A220-300 Passenger"
+    },
+    {
+     "fn": "LY324",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "CDG",
+     "to": "TLV",
+     "dep": "2027-04-08 15:35",
+     "arr": "2027-04-08 20:55",
+     "dur_min": 260,
+     "aircraft": "Boeing 777"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "CDG",
+     "dur_min": 210
+    }
+   ],
+   "airlines": [
+    "Air France",
+    "El Al"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 12056,
+   "dur_min": 520,
+   "segs": [
+    {
+     "fn": "AF1017",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "CDG",
+     "dep": "2027-04-08 05:55",
+     "arr": "2027-04-08 08:55",
+     "dur_min": 120,
+     "aircraft": "Airbus A220-300 Passenger"
+    },
+    {
+     "fn": "LY320",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "CDG",
+     "to": "TLV",
+     "dep": "2027-04-08 11:10",
+     "arr": "2027-04-08 16:35",
+     "dur_min": 265,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "CDG",
+     "dur_min": 135
+    }
+   ],
+   "airlines": [
+    "Air France",
+    "El Al"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 8817,
+   "dur_min": 670,
+   "segs": [
+    {
+     "fn": "KL1140",
+     "airline": "KLM",
+     "operated_by": "KLM Cityhopper",
+     "frm": "DUB",
+     "to": "AMS",
+     "dep": "2027-04-08 13:25",
+     "arr": "2027-04-08 16:00",
+     "dur_min": 95,
+     "aircraft": "Embraer 195 E2"
+    },
+    {
+     "fn": "KL461",
+     "airline": "KLM",
+     "operated_by": null,
+     "frm": "AMS",
+     "to": "TLV",
+     "dep": "2027-04-08 21:10",
+     "arr": "2027-04-09 02:35",
+     "dur_min": 265,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AMS",
+     "dur_min": 310
+    }
+   ],
+   "airlines": [
+    "KLM"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 12047,
+   "dur_min": 575,
+   "segs": [
+    {
+     "fn": "KL1134",
+     "airline": "KLM",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "AMS",
+     "dep": "2027-04-08 05:55",
+     "arr": "2027-04-08 08:30",
+     "dur_min": 95,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "LY338",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "AMS",
+     "to": "TLV",
+     "dep": "2027-04-08 12:15",
+     "arr": "2027-04-08 17:30",
+     "dur_min": 255,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AMS",
+     "dur_min": 225
+    }
+   ],
+   "airlines": [
+    "KLM",
+    "El Al"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 12876,
+   "dur_min": 570,
+   "segs": [
+    {
+     "fn": "AF1117",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "CDG",
+     "dep": "2027-04-08 16:20",
+     "arr": "2027-04-08 19:05",
+     "dur_min": 105,
+     "aircraft": "Airbus A220-300 Passenger"
+    },
+    {
+     "fn": "LY326",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "CDG",
+     "to": "TLV",
+     "dep": "2027-04-08 22:30",
+     "arr": "2027-04-09 03:50",
+     "dur_min": 260,
+     "aircraft": "Boeing 787"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "CDG",
+     "dur_min": 205
+    }
+   ],
+   "airlines": [
+    "Air France",
+    "El Al"
+   ]
+  }
+ ],
+ "text": ""
+}

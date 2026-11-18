@@ -1,0 +1,31 @@
+{
+ "observed": "2026-11-18T00:25:53+02:00",
+ "url": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjctMDQtMDkoAGoHCAESA0NMSnIHCAESA1RMVkIDAQEBSAGYAQI&hl=en&curr=ILS",
+ "final_url": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjctMDQtMDkoAGoHCAESA0NMSnIHCAESA1RMVkIDAQEBSAGYAQI&hl=en&curr=ILS",
+ "expanded": false,
+ "rows": [
+  {
+   "section": "other",
+   "price_total": 782,
+   "dur_min": 175,
+   "segs": [
+    {
+     "fn": "W43311",
+     "airline": "Wizz Air",
+     "operated_by": null,
+     "frm": "CLJ",
+     "to": "TLV",
+     "dep": "2027-04-09 05:40",
+     "arr": "2027-04-09 08:35",
+     "dur_min": 175,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Wizz Air"
+   ]
+  }
+ ],
+ "text": ""
+}

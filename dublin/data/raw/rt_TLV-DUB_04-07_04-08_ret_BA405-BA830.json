@@ -1,0 +1,163 @@
+{
+ "observed": "2026-11-18T00:07:57+02:00",
+ "url": "https://www.google.com/travel/flights/search?tfs=GmASCjIwMjctMDQtMDciHwoDVExWEgoyMDI3LTA0LTA3GgNMSFIqAkJBMgM0MDUiHwoDTEhSEgoyMDI3LTA0LTA3GgNEVUIqAkJBMgM4MzBqBwgBEgNUTFZyBwgBEgNEVUIaHhIKMjAyNy0wNC0wOGoHCAESA0RVQnIHCAESA1RMVkIDAQEBSAGYAQE&hl=en&curr=ILS",
+ "final_url": "https://www.google.com/travel/flights/search?tfs=CBwQAhpgEgoyMDI3LTA0LTA3Ih8KA1RMVhIKMjAyNy0wNC0wNxoDTEhSKgJCQTIDNDA1Ih8KA0xIUhIKMjAyNy0wNC0wNxoDRFVCKgJCQTIDODMwagcIARIDVExWcgcIARIDRFVCGh4SCjIwMjctMDQtMDhqBwgBEgNEVUJyBwgBEgNUTFZAAUABQAFIAXABggELCP___________wGYAQE&tfu=EgYIABABGAA&hl=en&curr=ILS",
+ "expanded": true,
+ "rows": [
+  {
+   "section": "other",
+   "price_total": 8525,
+   "dur_min": 625,
+   "segs": [
+    {
+     "fn": "BA831",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "LHR",
+     "dep": "2027-04-08 15:30",
+     "arr": "2027-04-08 17:00",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "BA404",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "TLV",
+     "dep": "2027-04-08 20:55",
+     "arr": "2027-04-09 03:55",
+     "dur_min": 300,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 235
+    }
+   ],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 9374,
+   "dur_min": 475,
+   "segs": [
+    {
+     "fn": "EI178",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "LHR",
+     "dep": "2027-04-08 18:00",
+     "arr": "2027-04-08 19:25",
+     "dur_min": 85,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "BA404",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "TLV",
+     "dep": "2027-04-08 20:55",
+     "arr": "2027-04-09 03:55",
+     "dur_min": 300,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 90
+    }
+   ],
+   "airlines": [
+    "Aer Lingus",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 8525,
+   "dur_min": 730,
+   "segs": [
+    {
+     "fn": "BA829",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "LHR",
+     "dep": "2027-04-08 13:45",
+     "arr": "2027-04-08 15:15",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "BA404",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "TLV",
+     "dep": "2027-04-08 20:55",
+     "arr": "2027-04-09 03:55",
+     "dur_min": 300,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 340
+    }
+   ],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 9374,
+   "dur_min": 505,
+   "segs": [
+    {
+     "fn": "EI176",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "LHR",
+     "dep": "2027-04-08 17:30",
+     "arr": "2027-04-08 18:55",
+     "dur_min": 85,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "BA404",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "TLV",
+     "dep": "2027-04-08 20:55",
+     "arr": "2027-04-09 03:55",
+     "dur_min": 300,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 120
+    }
+   ],
+   "airlines": [
+    "Aer Lingus",
+    "British Airways"
+   ]
+  }
+ ],
+ "text": ""
+}

@@ -1,0 +1,6376 @@
+{
+ "observed": "2026-11-18T00:00:06+02:00",
+ "url": "https://www.google.com/travel/flights/search?tfs=Gh4SCjIwMjctMDQtMDdqBwgBEgNUTFZyBwgBEgNEVUJCAwEBAUgBmAEC&hl=en&curr=ILS",
+ "final_url": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI3LTA0LTA3agcIARIDVExWcgcIARIDRFVCQAFAAUABSAFwAYIBCwj___________8BmAEC&tfu=EgYIABABGAA&hl=en&curr=ILS",
+ "expanded": true,
+ "rows": [
+  {
+   "section": "best",
+   "price_total": 2744,
+   "dur_min": 940,
+   "segs": [
+    {
+     "fn": "LX253",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ZRH",
+     "dep": "2027-04-07 18:15",
+     "arr": "2027-04-07 21:35",
+     "dur_min": 260,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LX402",
+     "airline": "SWISS",
+     "operated_by": "Helvetic",
+     "frm": "ZRH",
+     "to": "DUB",
+     "dep": "2027-04-08 06:35",
+     "arr": "2027-04-08 07:55",
+     "dur_min": 140,
+     "aircraft": "Embraer 190 E2"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ZRH",
+     "dur_min": 540
+    }
+   ],
+   "airlines": [
+    "SWISS"
+   ]
+  },
+  {
+   "section": "best",
+   "price_total": 2767,
+   "dur_min": 465,
+   "segs": [
+    {
+     "fn": "LH687",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 16:30",
+     "arr": "2027-04-07 20:10",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 60
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "best",
+   "price_total": 2777,
+   "dur_min": 820,
+   "segs": [
+    {
+     "fn": "AZ809",
+     "airline": "ITA",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FCO",
+     "dep": "2027-04-07 05:15",
+     "arr": "2027-04-07 08:00",
+     "dur_min": 225,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "VL1875",
+     "airline": "Lufthansa City Airlines",
+     "operated_by": null,
+     "frm": "FCO",
+     "to": "MUC",
+     "dep": "2027-04-07 12:50",
+     "arr": "2027-04-07 14:25",
+     "dur_min": 95,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "VL2518",
+     "airline": "Lufthansa City Airlines",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "DUB",
+     "dep": "2027-04-07 15:25",
+     "arr": "2027-04-07 16:55",
+     "dur_min": 150,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FCO",
+     "dur_min": 290
+    },
+    {
+     "airport": "MUC",
+     "dur_min": 60
+    }
+   ],
+   "airlines": [
+    "ITA",
+    "Lufthansa City Airlines"
+   ]
+  },
+  {
+   "section": "best",
+   "price_total": 5110,
+   "dur_min": 485,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "BA826",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 10:35",
+     "arr": "2027-04-07 12:05",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 60
+    }
+   ],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 2777,
+   "dur_min": 820,
+   "segs": [
+    {
+     "fn": "AZ809",
+     "airline": "ITA",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FCO",
+     "dep": "2027-04-07 05:15",
+     "arr": "2027-04-07 08:00",
+     "dur_min": 225,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH1867",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FCO",
+     "to": "MUC",
+     "dep": "2027-04-07 10:50",
+     "arr": "2027-04-07 12:25",
+     "dur_min": 95,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "VL2518",
+     "airline": "Lufthansa City Airlines",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "DUB",
+     "dep": "2027-04-07 15:25",
+     "arr": "2027-04-07 16:55",
+     "dur_min": 150,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FCO",
+     "dur_min": 170
+    },
+    {
+     "airport": "MUC",
+     "dur_min": 180
+    }
+   ],
+   "airlines": [
+    "ITA",
+    "Lufthansa",
+    "Lufthansa City Airlines"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 2851,
+   "dur_min": 815,
+   "segs": [
+    {
+     "fn": "AZ809",
+     "airline": "ITA",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FCO",
+     "dep": "2027-04-07 05:15",
+     "arr": "2027-04-07 08:00",
+     "dur_min": 225,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH231",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FCO",
+     "to": "FRA",
+     "dep": "2027-04-07 10:00",
+     "arr": "2027-04-07 12:05",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH980",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 15:45",
+     "arr": "2027-04-07 16:50",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FCO",
+     "dur_min": 120
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 220
+    }
+   ],
+   "airlines": [
+    "ITA",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 2851,
+   "dur_min": 815,
+   "segs": [
+    {
+     "fn": "AZ809",
+     "airline": "ITA",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FCO",
+     "dep": "2027-04-07 05:15",
+     "arr": "2027-04-07 08:00",
+     "dur_min": 225,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "AZ400",
+     "airline": "ITA",
+     "operated_by": null,
+     "frm": "FCO",
+     "to": "FRA",
+     "dep": "2027-04-07 08:45",
+     "arr": "2027-04-07 10:50",
+     "dur_min": 125,
+     "aircraft": "Airbus A220-300 Passenger"
+    },
+    {
+     "fn": "LH980",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 15:45",
+     "arr": "2027-04-07 16:50",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FCO",
+     "dur_min": 45
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 295
+    }
+   ],
+   "airlines": [
+    "ITA",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 2884,
+   "dur_min": 1005,
+   "segs": [
+    {
+     "fn": "IB1872",
+     "airline": "Iberia",
+     "operated_by": "Iberia Express",
+     "frm": "TLV",
+     "to": "MAD",
+     "dep": "2027-04-07 18:35",
+     "arr": "2027-04-07 23:00",
+     "dur_min": 325,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "IB1881",
+     "airline": "Iberia",
+     "operated_by": "Iberia Express",
+     "frm": "MAD",
+     "to": "DUB",
+     "dep": "2027-04-08 07:45",
+     "arr": "2027-04-08 09:20",
+     "dur_min": 155,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MAD",
+     "dur_min": 525
+    }
+   ],
+   "airlines": [
+    "Iberia"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 3617,
+   "dur_min": 715,
+   "segs": [
+    {
+     "fn": "LH683",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 07:00",
+     "arr": "2027-04-07 10:10",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "VL2518",
+     "airline": "Lufthansa City Airlines",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "DUB",
+     "dep": "2027-04-07 15:25",
+     "arr": "2027-04-07 16:55",
+     "dur_min": 150,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 315
+    }
+   ],
+   "airlines": [
+    "Lufthansa",
+    "Lufthansa City Airlines"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 3659,
+   "dur_min": 860,
+   "segs": [
+    {
+     "fn": "RO156",
+     "airline": "TAROM",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "OTP",
+     "dep": "2027-04-07 00:20",
+     "arr": "2027-04-07 02:05",
+     "dur_min": 105,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    },
+    {
+     "fn": "RO361",
+     "airline": "TAROM",
+     "operated_by": null,
+     "frm": "OTP",
+     "to": "AMS",
+     "dep": "2027-04-07 08:35",
+     "arr": "2027-04-07 10:40",
+     "dur_min": 185,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "KL1139",
+     "airline": "KLM",
+     "operated_by": null,
+     "frm": "AMS",
+     "to": "DUB",
+     "dep": "2027-04-07 12:00",
+     "arr": "2027-04-07 12:40",
+     "dur_min": 100,
+     "aircraft": "Embraer 195 E2"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "OTP",
+     "dur_min": 390
+    },
+    {
+     "airport": "AMS",
+     "dur_min": 80
+    }
+   ],
+   "airlines": [
+    "TAROM",
+    "KLM"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4135,
+   "dur_min": 1260,
+   "segs": [
+    {
+     "fn": "TP1604",
+     "airline": "Tap Air Portugal",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LIS",
+     "dep": "2027-04-07 05:05",
+     "arr": "2027-04-07 09:15",
+     "dur_min": 370,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "TP1326",
+     "airline": "Tap Air Portugal",
+     "operated_by": "Portugalia - Companhia Portuguesa",
+     "frm": "LIS",
+     "to": "DUB",
+     "dep": "2027-04-07 21:15",
+     "arr": "2027-04-08 00:05",
+     "dur_min": 170,
+     "aircraft": "Embraer 195"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LIS",
+     "dur_min": 720
+    }
+   ],
+   "airlines": [
+    "Tap Air Portugal"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6044,
+   "dur_min": 470,
+   "segs": [
+    {
+     "fn": "LY357",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 06:05",
+     "arr": "2027-04-07 09:40",
+     "dur_min": 275,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "LH978",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 10:50",
+     "arr": "2027-04-07 11:55",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 70
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6831,
+   "dur_min": 495,
+   "segs": [
+    {
+     "fn": "LY327",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "CDG",
+     "dep": "2027-04-07 12:10",
+     "arr": "2027-04-07 16:00",
+     "dur_min": 290,
+     "aircraft": "Boeing 777"
+    },
+    {
+     "fn": "AF1816",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "CDG",
+     "to": "DUB",
+     "dep": "2027-04-07 17:35",
+     "arr": "2027-04-07 18:25",
+     "dur_min": 110,
+     "aircraft": "Airbus A220-300 Passenger"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "CDG",
+     "dur_min": 95
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "Air France"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 8943,
+   "dur_min": 460,
+   "segs": [
+    {
+     "fn": "KL462",
+     "airline": "KLM",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "AMS",
+     "dep": "2027-04-07 04:45",
+     "arr": "2027-04-07 08:40",
+     "dur_min": 295,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "KL1137",
+     "airline": "KLM",
+     "operated_by": null,
+     "frm": "AMS",
+     "to": "DUB",
+     "dep": "2027-04-07 09:45",
+     "arr": "2027-04-07 10:25",
+     "dur_min": 100,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AMS",
+     "dur_min": 65
+    }
+   ],
+   "airlines": [
+    "KLM"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 2851,
+   "dur_min": 1140,
+   "segs": [
+    {
+     "fn": "AZ809",
+     "airline": "ITA",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FCO",
+     "dep": "2027-04-07 05:15",
+     "arr": "2027-04-07 08:00",
+     "dur_min": 225,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH233",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FCO",
+     "to": "FRA",
+     "dep": "2027-04-07 13:20",
+     "arr": "2027-04-07 15:25",
+     "dur_min": 125,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FCO",
+     "dur_min": 320
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 345
+    }
+   ],
+   "airlines": [
+    "ITA",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 2851,
+   "dur_min": 1140,
+   "segs": [
+    {
+     "fn": "AZ809",
+     "airline": "ITA",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FCO",
+     "dep": "2027-04-07 05:15",
+     "arr": "2027-04-07 08:00",
+     "dur_min": 225,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH235",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FCO",
+     "to": "FRA",
+     "dep": "2027-04-07 15:00",
+     "arr": "2027-04-07 17:05",
+     "dur_min": 125,
+     "aircraft": "Airbus A319"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FCO",
+     "dur_min": 420
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 245
+    }
+   ],
+   "airlines": [
+    "ITA",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 2851,
+   "dur_min": 1140,
+   "segs": [
+    {
+     "fn": "AZ809",
+     "airline": "ITA",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FCO",
+     "dep": "2027-04-07 05:15",
+     "arr": "2027-04-07 08:00",
+     "dur_min": 225,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH231",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FCO",
+     "to": "FRA",
+     "dep": "2027-04-07 10:00",
+     "arr": "2027-04-07 12:05",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FCO",
+     "dur_min": 120
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 545
+    }
+   ],
+   "airlines": [
+    "ITA",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 3274,
+   "dur_min": 1505,
+   "segs": [
+    {
+     "fn": "IB1872",
+     "airline": "Iberia",
+     "operated_by": "Iberia Express",
+     "frm": "TLV",
+     "to": "MAD",
+     "dep": "2027-04-07 18:35",
+     "arr": "2027-04-07 23:00",
+     "dur_min": 325,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "IB1885",
+     "airline": "Iberia",
+     "operated_by": "Iberia Express",
+     "frm": "MAD",
+     "to": "DUB",
+     "dep": "2027-04-08 15:55",
+     "arr": "2027-04-08 17:40",
+     "dur_min": 165,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MAD",
+     "dur_min": 1015
+    }
+   ],
+   "airlines": [
+    "Iberia"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 3692,
+   "dur_min": 1055,
+   "segs": [
+    {
+     "fn": "LH687",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 16:30",
+     "arr": "2027-04-07 20:10",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH976",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-08 07:00",
+     "arr": "2027-04-08 08:05",
+     "dur_min": 125,
+     "aircraft": "Airbus A319"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 650
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 3748,
+   "dur_min": 1130,
+   "segs": [
+    {
+     "fn": "LH681",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 17:05",
+     "arr": "2027-04-07 20:15",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH2516",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "DUB",
+     "dep": "2027-04-08 08:25",
+     "arr": "2027-04-08 09:55",
+     "dur_min": 150,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 730
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 3748,
+   "dur_min": 1550,
+   "segs": [
+    {
+     "fn": "LH681",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 17:05",
+     "arr": "2027-04-07 20:15",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "VL2518",
+     "airline": "Lufthansa City Airlines",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "DUB",
+     "dep": "2027-04-08 15:25",
+     "arr": "2027-04-08 16:55",
+     "dur_min": 150,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 1150
+    }
+   ],
+   "airlines": [
+    "Lufthansa",
+    "Lufthansa City Airlines"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 3833,
+   "dur_min": 1580,
+   "segs": [
+    {
+     "fn": "LH687",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 16:30",
+     "arr": "2027-04-07 20:10",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH980",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-08 15:45",
+     "arr": "2027-04-08 16:50",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 1175
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 3930,
+   "dur_min": 710,
+   "segs": [
+    {
+     "fn": "LH683",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 07:00",
+     "arr": "2027-04-07 10:10",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH103",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "FRA",
+     "dep": "2027-04-07 12:00",
+     "arr": "2027-04-07 13:00",
+     "dur_min": 60,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH980",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 15:45",
+     "arr": "2027-04-07 16:50",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 110
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 165
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 3930,
+   "dur_min": 1035,
+   "segs": [
+    {
+     "fn": "LH683",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 07:00",
+     "arr": "2027-04-07 10:10",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH109",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "FRA",
+     "dep": "2027-04-07 15:00",
+     "arr": "2027-04-07 16:00",
+     "dur_min": 60,
+     "aircraft": "Airbus A319"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 290
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 310
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 3930,
+   "dur_min": 1035,
+   "segs": [
+    {
+     "fn": "LH683",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 07:00",
+     "arr": "2027-04-07 10:10",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH103",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "FRA",
+     "dep": "2027-04-07 12:00",
+     "arr": "2027-04-07 13:00",
+     "dur_min": 60,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 110
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 490
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 3930,
+   "dur_min": 1035,
+   "segs": [
+    {
+     "fn": "LH683",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 07:00",
+     "arr": "2027-04-07 10:10",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH115",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "FRA",
+     "dep": "2027-04-07 18:00",
+     "arr": "2027-04-07 19:00",
+     "dur_min": 60,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 470
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 130
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 3930,
+   "dur_min": 1035,
+   "segs": [
+    {
+     "fn": "LH683",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 07:00",
+     "arr": "2027-04-07 10:10",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH107",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "FRA",
+     "dep": "2027-04-07 14:00",
+     "arr": "2027-04-07 15:00",
+     "dur_min": 60,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 230
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 370
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4004,
+   "dur_min": 1535,
+   "segs": [
+    {
+     "fn": "LX253",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ZRH",
+     "dep": "2027-04-07 18:15",
+     "arr": "2027-04-07 21:35",
+     "dur_min": 260,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LX404",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "ZRH",
+     "to": "DUB",
+     "dep": "2027-04-08 16:30",
+     "arr": "2027-04-08 17:50",
+     "dur_min": 140,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ZRH",
+     "dur_min": 1135
+    }
+   ],
+   "airlines": [
+    "SWISS"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4035,
+   "dur_min": 1020,
+   "segs": [
+    {
+     "fn": "LH681",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 17:05",
+     "arr": "2027-04-07 20:15",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH123",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "FRA",
+     "dep": "2027-04-07 21:30",
+     "arr": "2027-04-07 22:30",
+     "dur_min": 60,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "LH976",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-08 07:00",
+     "arr": "2027-04-08 08:05",
+     "dur_min": 125,
+     "aircraft": "Airbus A319"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 75
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 510
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4133,
+   "dur_min": 850,
+   "segs": [
+    {
+     "fn": "IB1874",
+     "airline": "Iberia",
+     "operated_by": "Iberia Express",
+     "frm": "TLV",
+     "to": "MAD",
+     "dep": "2027-04-07 05:30",
+     "arr": "2027-04-07 09:55",
+     "dur_min": 325,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "IB1885",
+     "airline": "Iberia",
+     "operated_by": "Iberia Express",
+     "frm": "MAD",
+     "to": "DUB",
+     "dep": "2027-04-07 15:55",
+     "arr": "2027-04-07 17:40",
+     "dur_min": 165,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MAD",
+     "dur_min": 360
+    }
+   ],
+   "airlines": [
+    "Iberia"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4203,
+   "dur_min": 2340,
+   "segs": [
+    {
+     "fn": "TP1604",
+     "airline": "Tap Air Portugal",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LIS",
+     "dep": "2027-04-07 05:05",
+     "arr": "2027-04-07 09:15",
+     "dur_min": 370,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "TP1324",
+     "airline": "Tap Air Portugal",
+     "operated_by": "Portugalia - Companhia Portuguesa",
+     "frm": "LIS",
+     "to": "DUB",
+     "dep": "2027-04-08 15:15",
+     "arr": "2027-04-08 18:05",
+     "dur_min": 170,
+     "aircraft": "Embraer 195"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LIS",
+     "dur_min": 1800
+    }
+   ],
+   "airlines": [
+    "Tap Air Portugal"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4262,
+   "dur_min": 1285,
+   "segs": [
+    {
+     "fn": "LH687",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 16:30",
+     "arr": "2027-04-07 20:10",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH978",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-08 10:50",
+     "arr": "2027-04-08 11:55",
+     "dur_min": 125,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 880
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4280,
+   "dur_min": 1185,
+   "segs": [
+    {
+     "fn": "IB1872",
+     "airline": "Iberia",
+     "operated_by": "Iberia Express",
+     "frm": "TLV",
+     "to": "MAD",
+     "dep": "2027-04-07 18:35",
+     "arr": "2027-04-07 23:00",
+     "dur_min": 325,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "EI593",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "MAD",
+     "to": "DUB",
+     "dep": "2027-04-08 10:40",
+     "arr": "2027-04-08 12:20",
+     "dur_min": 160,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MAD",
+     "dur_min": 700
+    }
+   ],
+   "airlines": [
+    "Iberia",
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4300,
+   "dur_min": 845,
+   "segs": [
+    {
+     "fn": "LH691",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 04:45",
+     "arr": "2027-04-07 08:25",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH980",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 15:45",
+     "arr": "2027-04-07 16:50",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 440
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4310,
+   "dur_min": 655,
+   "segs": [
+    {
+     "fn": "AZ815",
+     "airline": "ITA",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FCO",
+     "dep": "2027-04-07 08:00",
+     "arr": "2027-04-07 10:45",
+     "dur_min": 225,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "VL1875",
+     "airline": "Lufthansa City Airlines",
+     "operated_by": null,
+     "frm": "FCO",
+     "to": "MUC",
+     "dep": "2027-04-07 12:50",
+     "arr": "2027-04-07 14:25",
+     "dur_min": 95,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "VL2518",
+     "airline": "Lufthansa City Airlines",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "DUB",
+     "dep": "2027-04-07 15:25",
+     "arr": "2027-04-07 16:55",
+     "dur_min": 150,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FCO",
+     "dur_min": 125
+    },
+    {
+     "airport": "MUC",
+     "dur_min": 60
+    }
+   ],
+   "airlines": [
+    "ITA",
+    "Lufthansa City Airlines"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4350,
+   "dur_min": 1250,
+   "segs": [
+    {
+     "fn": "LH681",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 17:05",
+     "arr": "2027-04-07 20:15",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH125",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "FRA",
+     "dep": "2027-04-08 07:00",
+     "arr": "2027-04-08 08:00",
+     "dur_min": 60,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH978",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-08 10:50",
+     "arr": "2027-04-08 11:55",
+     "dur_min": 125,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 645
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 170
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4350,
+   "dur_min": 1250,
+   "segs": [
+    {
+     "fn": "LH681",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 17:05",
+     "arr": "2027-04-07 20:15",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH127",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "FRA",
+     "dep": "2027-04-08 08:00",
+     "arr": "2027-04-08 09:00",
+     "dur_min": 60,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH978",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-08 10:50",
+     "arr": "2027-04-08 11:55",
+     "dur_min": 125,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 705
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 110
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4364,
+   "dur_min": 1165,
+   "segs": [
+    {
+     "fn": "LH687",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 16:30",
+     "arr": "2027-04-07 20:10",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH128",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "MUC",
+     "dep": "2027-04-07 22:15",
+     "arr": "2027-04-07 23:10",
+     "dur_min": 55,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH2516",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "DUB",
+     "dep": "2027-04-08 08:25",
+     "arr": "2027-04-08 09:55",
+     "dur_min": 150,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 125
+    },
+    {
+     "airport": "MUC",
+     "dur_min": 555
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4384,
+   "dur_min": 975,
+   "segs": [
+    {
+     "fn": "AZ815",
+     "airline": "ITA",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FCO",
+     "dep": "2027-04-07 08:00",
+     "arr": "2027-04-07 10:45",
+     "dur_min": 225,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "AZ404",
+     "airline": "ITA",
+     "operated_by": null,
+     "frm": "FCO",
+     "to": "FRA",
+     "dep": "2027-04-07 15:35",
+     "arr": "2027-04-07 17:40",
+     "dur_min": 125,
+     "aircraft": "Airbus A220-300 Passenger"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FCO",
+     "dur_min": 290
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 210
+    }
+   ],
+   "airlines": [
+    "ITA",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4384,
+   "dur_min": 975,
+   "segs": [
+    {
+     "fn": "AZ815",
+     "airline": "ITA",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FCO",
+     "dep": "2027-04-07 08:00",
+     "arr": "2027-04-07 10:45",
+     "dur_min": 225,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH233",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FCO",
+     "to": "FRA",
+     "dep": "2027-04-07 13:20",
+     "arr": "2027-04-07 15:25",
+     "dur_min": 125,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FCO",
+     "dur_min": 155
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 345
+    }
+   ],
+   "airlines": [
+    "ITA",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4384,
+   "dur_min": 975,
+   "segs": [
+    {
+     "fn": "AZ815",
+     "airline": "ITA",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FCO",
+     "dep": "2027-04-07 08:00",
+     "arr": "2027-04-07 10:45",
+     "dur_min": 225,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH235",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FCO",
+     "to": "FRA",
+     "dep": "2027-04-07 15:00",
+     "arr": "2027-04-07 17:05",
+     "dur_min": 125,
+     "aircraft": "Airbus A319"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FCO",
+     "dur_min": 255
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 245
+    }
+   ],
+   "airlines": [
+    "ITA",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4439,
+   "dur_min": 515,
+   "segs": [
+    {
+     "fn": "AF963",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "CDG",
+     "dep": "2027-04-07 16:05",
+     "arr": "2027-04-07 19:45",
+     "dur_min": 280,
+     "aircraft": "Boeing 777"
+    },
+    {
+     "fn": "AF1016",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "CDG",
+     "to": "DUB",
+     "dep": "2027-04-07 21:55",
+     "arr": "2027-04-07 22:40",
+     "dur_min": 105,
+     "aircraft": "Airbus A220-300 Passenger"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "CDG",
+     "dur_min": 130
+    }
+   ],
+   "airlines": [
+    "Air France"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4439,
+   "dur_min": 1095,
+   "segs": [
+    {
+     "fn": "AF963",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "CDG",
+     "dep": "2027-04-07 16:05",
+     "arr": "2027-04-07 19:45",
+     "dur_min": 280,
+     "aircraft": "Boeing 777"
+    },
+    {
+     "fn": "AF1716",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "CDG",
+     "to": "DUB",
+     "dep": "2027-04-08 07:30",
+     "arr": "2027-04-08 08:20",
+     "dur_min": 110,
+     "aircraft": "Airbus A220-300 Passenger"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "CDG",
+     "dur_min": 705
+    }
+   ],
+   "airlines": [
+    "Air France"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4441,
+   "dur_min": 1170,
+   "segs": [
+    {
+     "fn": "LH691",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 04:45",
+     "arr": "2027-04-07 08:25",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 765
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4511,
+   "dur_min": 1195,
+   "segs": [
+    {
+     "fn": "LX253",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ZRH",
+     "dep": "2027-04-07 18:15",
+     "arr": "2027-04-07 21:35",
+     "dur_min": 260,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LX400",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "ZRH",
+     "to": "DUB",
+     "dep": "2027-04-08 10:50",
+     "arr": "2027-04-08 12:10",
+     "dur_min": 140,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ZRH",
+     "dur_min": 795
+    }
+   ],
+   "airlines": [
+    "SWISS"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4526,
+   "dur_min": 1035,
+   "segs": [
+    {
+     "fn": "LH683",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 07:00",
+     "arr": "2027-04-07 10:10",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH113",
+     "airline": "Lufthansa",
+     "operated_by": "Air Dolomiti",
+     "frm": "MUC",
+     "to": "FRA",
+     "dep": "2027-04-07 17:00",
+     "arr": "2027-04-07 18:00",
+     "dur_min": 60,
+     "aircraft": "Embraer 190"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 410
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 190
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4605,
+   "dur_min": 1250,
+   "segs": [
+    {
+     "fn": "LH681",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 17:05",
+     "arr": "2027-04-07 20:15",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH123",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "FRA",
+     "dep": "2027-04-07 21:30",
+     "arr": "2027-04-07 22:30",
+     "dur_min": 60,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "LH978",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-08 10:50",
+     "arr": "2027-04-08 11:55",
+     "dur_min": 125,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 75
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 740
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4960,
+   "dur_min": 560,
+   "segs": [
+    {
+     "fn": "LX257",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ZRH",
+     "dep": "2027-04-07 04:50",
+     "arr": "2027-04-07 08:10",
+     "dur_min": 260,
+     "aircraft": "Airbus A220-300 Passenger"
+    },
+    {
+     "fn": "LX400",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "ZRH",
+     "to": "DUB",
+     "dep": "2027-04-07 10:50",
+     "arr": "2027-04-07 12:10",
+     "dur_min": 140,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ZRH",
+     "dur_min": 160
+    }
+   ],
+   "airlines": [
+    "SWISS"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 4984,
+   "dur_min": 550,
+   "segs": [
+    {
+     "fn": "LH691",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 04:45",
+     "arr": "2027-04-07 08:25",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH978",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 10:50",
+     "arr": "2027-04-07 11:55",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 145
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5110,
+   "dur_min": 635,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "BA828",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 13:10",
+     "arr": "2027-04-07 14:35",
+     "dur_min": 85,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 215
+    }
+   ],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5110,
+   "dur_min": 780,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "BA830",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 15:30",
+     "arr": "2027-04-07 17:00",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 355
+    }
+   ],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5110,
+   "dur_min": 890,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "BA832",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 17:20",
+     "arr": "2027-04-07 18:50",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 465
+    }
+   ],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5110,
+   "dur_min": 930,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "BA834",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 18:05",
+     "arr": "2027-04-07 19:30",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 510
+    }
+   ],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5209,
+   "dur_min": 1035,
+   "segs": [
+    {
+     "fn": "LH683",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 07:00",
+     "arr": "2027-04-07 10:10",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH117",
+     "airline": "Lufthansa",
+     "operated_by": "Air Dolomiti",
+     "frm": "MUC",
+     "to": "FRA",
+     "dep": "2027-04-07 19:00",
+     "arr": "2027-04-07 20:00",
+     "dur_min": 60,
+     "aircraft": "Embraer 195"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 530
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 70
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5223,
+   "dur_min": 850,
+   "segs": [
+    {
+     "fn": "LH691",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 04:45",
+     "arr": "2027-04-07 08:25",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH108",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "MUC",
+     "dep": "2027-04-07 13:15",
+     "arr": "2027-04-07 14:10",
+     "dur_min": 55,
+     "aircraft": "Airbus A319"
+    },
+    {
+     "fn": "VL2518",
+     "airline": "Lufthansa City Airlines",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "DUB",
+     "dep": "2027-04-07 15:25",
+     "arr": "2027-04-07 16:55",
+     "dur_min": 150,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 290
+    },
+    {
+     "airport": "MUC",
+     "dur_min": 75
+    }
+   ],
+   "airlines": [
+    "Lufthansa",
+    "Lufthansa City Airlines"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5223,
+   "dur_min": 850,
+   "segs": [
+    {
+     "fn": "LH691",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 04:45",
+     "arr": "2027-04-07 08:25",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH102",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "MUC",
+     "dep": "2027-04-07 10:15",
+     "arr": "2027-04-07 11:10",
+     "dur_min": 55,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "VL2518",
+     "airline": "Lufthansa City Airlines",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "DUB",
+     "dep": "2027-04-07 15:25",
+     "arr": "2027-04-07 16:55",
+     "dur_min": 150,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 110
+    },
+    {
+     "airport": "MUC",
+     "dur_min": 255
+    }
+   ],
+   "airlines": [
+    "Lufthansa",
+    "Lufthansa City Airlines"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5223,
+   "dur_min": 850,
+   "segs": [
+    {
+     "fn": "LH691",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 04:45",
+     "arr": "2027-04-07 08:25",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH106",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "MUC",
+     "dep": "2027-04-07 12:15",
+     "arr": "2027-04-07 13:10",
+     "dur_min": 55,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "VL2518",
+     "airline": "Lufthansa City Airlines",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "DUB",
+     "dep": "2027-04-07 15:25",
+     "arr": "2027-04-07 16:55",
+     "dur_min": 150,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 230
+    },
+    {
+     "airport": "MUC",
+     "dur_min": 135
+    }
+   ],
+   "airlines": [
+    "Lufthansa",
+    "Lufthansa City Airlines"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5281,
+   "dur_min": 1735,
+   "segs": [
+    {
+     "fn": "LH683",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 07:00",
+     "arr": "2027-04-07 10:10",
+     "dur_min": 250,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH2516",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "DUB",
+     "dep": "2027-04-08 08:25",
+     "arr": "2027-04-08 09:55",
+     "dur_min": 150,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 1335
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5301,
+   "dur_min": 770,
+   "segs": [
+    {
+     "fn": "OS84",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "VIE",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 225,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "OS207",
+     "airline": "Austrian",
+     "operated_by": "Air Baltic",
+     "frm": "VIE",
+     "to": "FRA",
+     "dep": "2027-04-07 10:30",
+     "arr": "2027-04-07 12:00",
+     "dur_min": 90,
+     "aircraft": "Airbus A220-300 Passenger"
+    },
+    {
+     "fn": "LH980",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 15:45",
+     "arr": "2027-04-07 16:50",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "VIE",
+     "dur_min": 105
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 225
+    }
+   ],
+   "airlines": [
+    "Austrian",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5301,
+   "dur_min": 770,
+   "segs": [
+    {
+     "fn": "OS84",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "VIE",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 225,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "OS209",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "VIE",
+     "to": "FRA",
+     "dep": "2027-04-07 11:20",
+     "arr": "2027-04-07 12:50",
+     "dur_min": 90,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "LH980",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 15:45",
+     "arr": "2027-04-07 16:50",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "VIE",
+     "dur_min": 155
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 175
+    }
+   ],
+   "airlines": [
+    "Austrian",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5301,
+   "dur_min": 770,
+   "segs": [
+    {
+     "fn": "OS84",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "VIE",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 225,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH1233",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "VIE",
+     "to": "FRA",
+     "dep": "2027-04-07 13:20",
+     "arr": "2027-04-07 14:40",
+     "dur_min": 80,
+     "aircraft": "Airbus A319"
+    },
+    {
+     "fn": "LH980",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 15:45",
+     "arr": "2027-04-07 16:50",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "VIE",
+     "dur_min": 275
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 65
+    }
+   ],
+   "airlines": [
+    "Austrian",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5301,
+   "dur_min": 1095,
+   "segs": [
+    {
+     "fn": "OS84",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "VIE",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 225,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "OS215",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "VIE",
+     "to": "FRA",
+     "dep": "2027-04-07 17:10",
+     "arr": "2027-04-07 18:40",
+     "dur_min": 90,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "VIE",
+     "dur_min": 505
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 150
+    }
+   ],
+   "airlines": [
+    "Austrian",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5301,
+   "dur_min": 1095,
+   "segs": [
+    {
+     "fn": "OS84",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "VIE",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 225,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "OS213",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "VIE",
+     "to": "FRA",
+     "dep": "2027-04-07 14:55",
+     "arr": "2027-04-07 16:25",
+     "dur_min": 90,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "VIE",
+     "dur_min": 370
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 285
+    }
+   ],
+   "airlines": [
+    "Austrian",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5301,
+   "dur_min": 1095,
+   "segs": [
+    {
+     "fn": "OS84",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "VIE",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 225,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "OS207",
+     "airline": "Austrian",
+     "operated_by": "Air Baltic",
+     "frm": "VIE",
+     "to": "FRA",
+     "dep": "2027-04-07 10:30",
+     "arr": "2027-04-07 12:00",
+     "dur_min": 90,
+     "aircraft": "Airbus A220-300 Passenger"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "VIE",
+     "dur_min": 105
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 550
+    }
+   ],
+   "airlines": [
+    "Austrian",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5301,
+   "dur_min": 1095,
+   "segs": [
+    {
+     "fn": "OS84",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "VIE",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 225,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "OS209",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "VIE",
+     "to": "FRA",
+     "dep": "2027-04-07 11:20",
+     "arr": "2027-04-07 12:50",
+     "dur_min": 90,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "VIE",
+     "dur_min": 155
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 500
+    }
+   ],
+   "airlines": [
+    "Austrian",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5301,
+   "dur_min": 1095,
+   "segs": [
+    {
+     "fn": "OS84",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "VIE",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 225,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH1239",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "VIE",
+     "to": "FRA",
+     "dep": "2027-04-07 18:30",
+     "arr": "2027-04-07 19:50",
+     "dur_min": 80,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "VIE",
+     "dur_min": 585
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 80
+    }
+   ],
+   "airlines": [
+    "Austrian",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5301,
+   "dur_min": 1095,
+   "segs": [
+    {
+     "fn": "OS84",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "VIE",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 225,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH1233",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "VIE",
+     "to": "FRA",
+     "dep": "2027-04-07 13:20",
+     "arr": "2027-04-07 14:40",
+     "dur_min": 80,
+     "aircraft": "Airbus A319"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "VIE",
+     "dur_min": 275
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 390
+    }
+   ],
+   "airlines": [
+    "Austrian",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5454,
+   "dur_min": 775,
+   "segs": [
+    {
+     "fn": "LY221",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "CDG",
+     "dep": "2027-04-07 07:30",
+     "arr": "2027-04-07 11:30",
+     "dur_min": 300,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "AF1816",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "CDG",
+     "to": "DUB",
+     "dep": "2027-04-07 17:35",
+     "arr": "2027-04-07 18:25",
+     "dur_min": 110,
+     "aircraft": "Airbus A220-300 Passenger"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "CDG",
+     "dur_min": 365
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "Air France"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5454,
+   "dur_min": 1030,
+   "segs": [
+    {
+     "fn": "LY221",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "CDG",
+     "dep": "2027-04-07 07:30",
+     "arr": "2027-04-07 11:30",
+     "dur_min": 300,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "AF1016",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "CDG",
+     "to": "DUB",
+     "dep": "2027-04-07 21:55",
+     "arr": "2027-04-07 22:40",
+     "dur_min": 105,
+     "aircraft": "Airbus A220-300 Passenger"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "CDG",
+     "dur_min": 625
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "Air France"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5454,
+   "dur_min": 625,
+   "segs": [
+    {
+     "fn": "LY323",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "CDG",
+     "dep": "2027-04-07 10:00",
+     "arr": "2027-04-07 13:50",
+     "dur_min": 290,
+     "aircraft": "Boeing 777"
+    },
+    {
+     "fn": "AF1816",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "CDG",
+     "to": "DUB",
+     "dep": "2027-04-07 17:35",
+     "arr": "2027-04-07 18:25",
+     "dur_min": 110,
+     "aircraft": "Airbus A220-300 Passenger"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "CDG",
+     "dur_min": 225
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "Air France"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5454,
+   "dur_min": 880,
+   "segs": [
+    {
+     "fn": "LY323",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "CDG",
+     "dep": "2027-04-07 10:00",
+     "arr": "2027-04-07 13:50",
+     "dur_min": 290,
+     "aircraft": "Boeing 777"
+    },
+    {
+     "fn": "AF1016",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "CDG",
+     "to": "DUB",
+     "dep": "2027-04-07 21:55",
+     "arr": "2027-04-07 22:40",
+     "dur_min": 105,
+     "aircraft": "Airbus A220-300 Passenger"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "CDG",
+     "dur_min": 485
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "Air France"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5722,
+   "dur_min": 900,
+   "segs": [
+    {
+     "fn": "LX257",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ZRH",
+     "dep": "2027-04-07 04:50",
+     "arr": "2027-04-07 08:10",
+     "dur_min": 260,
+     "aircraft": "Airbus A220-300 Passenger"
+    },
+    {
+     "fn": "LX404",
+     "airline": "SWISS",
+     "operated_by": "Helvetic",
+     "frm": "ZRH",
+     "to": "DUB",
+     "dep": "2027-04-07 16:30",
+     "arr": "2027-04-07 17:50",
+     "dur_min": 140,
+     "aircraft": "Embraer 190 E2"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ZRH",
+     "dur_min": 500
+    }
+   ],
+   "airlines": [
+    "SWISS"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5745,
+   "dur_min": 650,
+   "segs": [
+    {
+     "fn": "LH695",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 08:00",
+     "arr": "2027-04-07 11:40",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH980",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 15:45",
+     "arr": "2027-04-07 16:50",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 245
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5745,
+   "dur_min": 975,
+   "segs": [
+    {
+     "fn": "LH695",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 08:00",
+     "arr": "2027-04-07 11:40",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 570
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5790,
+   "dur_min": 1745,
+   "segs": [
+    {
+     "fn": "LX257",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ZRH",
+     "dep": "2027-04-07 04:50",
+     "arr": "2027-04-07 08:10",
+     "dur_min": 260,
+     "aircraft": "Airbus A220-300 Passenger"
+    },
+    {
+     "fn": "LX402",
+     "airline": "SWISS",
+     "operated_by": "Helvetic",
+     "frm": "ZRH",
+     "to": "DUB",
+     "dep": "2027-04-08 06:35",
+     "arr": "2027-04-08 07:55",
+     "dur_min": 140,
+     "aircraft": "Embraer 190 E2"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ZRH",
+     "dur_min": 1345
+    }
+   ],
+   "airlines": [
+    "SWISS"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 5985,
+   "dur_min": 655,
+   "segs": [
+    {
+     "fn": "LH695",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 08:00",
+     "arr": "2027-04-07 11:40",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH108",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "MUC",
+     "dep": "2027-04-07 13:15",
+     "arr": "2027-04-07 14:10",
+     "dur_min": 55,
+     "aircraft": "Airbus A319"
+    },
+    {
+     "fn": "VL2518",
+     "airline": "Lufthansa City Airlines",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "DUB",
+     "dep": "2027-04-07 15:25",
+     "arr": "2027-04-07 16:55",
+     "dur_min": 150,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 95
+    },
+    {
+     "airport": "MUC",
+     "dur_min": 75
+    }
+   ],
+   "airlines": [
+    "Lufthansa",
+    "Lufthansa City Airlines"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6214,
+   "dur_min": 1210,
+   "segs": [
+    {
+     "fn": "LY351",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MUC",
+     "dep": "2027-04-07 15:45",
+     "arr": "2027-04-07 18:50",
+     "dur_min": 245,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "LH2516",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "DUB",
+     "dep": "2027-04-08 08:25",
+     "arr": "2027-04-08 09:55",
+     "dur_min": 150,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MUC",
+     "dur_min": 815
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6252,
+   "dur_min": 1085,
+   "segs": [
+    {
+     "fn": "LY397",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MAD",
+     "dep": "2027-04-07 17:15",
+     "arr": "2027-04-07 21:35",
+     "dur_min": 320,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "IB1881",
+     "airline": "Iberia",
+     "operated_by": "Iberia Express",
+     "frm": "MAD",
+     "to": "DUB",
+     "dep": "2027-04-08 07:45",
+     "arr": "2027-04-08 09:20",
+     "dur_min": 155,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MAD",
+     "dur_min": 610
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "Iberia"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6320,
+   "dur_min": 1665,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "BA810",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-08 06:20",
+     "arr": "2027-04-08 07:45",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 1245
+    }
+   ],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6330,
+   "dur_min": 1265,
+   "segs": [
+    {
+     "fn": "LY397",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "MAD",
+     "dep": "2027-04-07 17:15",
+     "arr": "2027-04-07 21:35",
+     "dur_min": 320,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "EI593",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "MAD",
+     "to": "DUB",
+     "dep": "2027-04-08 10:40",
+     "arr": "2027-04-08 12:20",
+     "dur_min": 160,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "MAD",
+     "dur_min": 785
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6811,
+   "dur_min": 1565,
+   "segs": [
+    {
+     "fn": "LH695",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 08:00",
+     "arr": "2027-04-07 11:40",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LH976",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-08 07:00",
+     "arr": "2027-04-08 08:05",
+     "dur_min": 125,
+     "aircraft": "Airbus A319"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 1160
+    }
+   ],
+   "airlines": [
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6815,
+   "dur_min": 495,
+   "segs": [
+    {
+     "fn": "LY339",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "AMS",
+     "dep": "2027-04-07 16:10",
+     "arr": "2027-04-07 20:15",
+     "dur_min": 305,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "KL1145",
+     "airline": "KLM",
+     "operated_by": null,
+     "frm": "AMS",
+     "to": "DUB",
+     "dep": "2027-04-07 21:45",
+     "arr": "2027-04-07 22:25",
+     "dur_min": 100,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AMS",
+     "dur_min": 90
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "KLM"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6815,
+   "dur_min": 1090,
+   "segs": [
+    {
+     "fn": "LY339",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "AMS",
+     "dep": "2027-04-07 16:10",
+     "arr": "2027-04-07 20:15",
+     "dur_min": 305,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "KL1135",
+     "airline": "KLM",
+     "operated_by": "KLM Cityhopper",
+     "frm": "AMS",
+     "to": "DUB",
+     "dep": "2027-04-08 07:40",
+     "arr": "2027-04-08 08:20",
+     "dur_min": 100,
+     "aircraft": "Embraer 195 E2"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AMS",
+     "dur_min": 685
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "KLM"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6831,
+   "dur_min": 750,
+   "segs": [
+    {
+     "fn": "LY327",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "CDG",
+     "dep": "2027-04-07 12:10",
+     "arr": "2027-04-07 16:00",
+     "dur_min": 290,
+     "aircraft": "Boeing 777"
+    },
+    {
+     "fn": "AF1016",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "CDG",
+     "to": "DUB",
+     "dep": "2027-04-07 21:55",
+     "arr": "2027-04-07 22:40",
+     "dur_min": 105,
+     "aircraft": "Airbus A220-300 Passenger"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "CDG",
+     "dur_min": 355
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "Air France"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6848,
+   "dur_min": 570,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "EI159",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 12:00",
+     "arr": "2027-04-07 13:30",
+     "dur_min": 90,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 145
+    }
+   ],
+   "airlines": [
+    "British Airways",
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6848,
+   "dur_min": 650,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "EI163",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 13:25",
+     "arr": "2027-04-07 14:50",
+     "dur_min": 85,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 230
+    }
+   ],
+   "airlines": [
+    "British Airways",
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6848,
+   "dur_min": 705,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "EI165",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 14:20",
+     "arr": "2027-04-07 15:45",
+     "dur_min": 85,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 285
+    }
+   ],
+   "airlines": [
+    "British Airways",
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6848,
+   "dur_min": 755,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "EI161",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 15:10",
+     "arr": "2027-04-07 16:35",
+     "dur_min": 85,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 335
+    }
+   ],
+   "airlines": [
+    "British Airways",
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6848,
+   "dur_min": 795,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "EI167",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 15:50",
+     "arr": "2027-04-07 17:15",
+     "dur_min": 85,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 375
+    }
+   ],
+   "airlines": [
+    "British Airways",
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6848,
+   "dur_min": 860,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "EI169",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 16:50",
+     "arr": "2027-04-07 18:20",
+     "dur_min": 90,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 435
+    }
+   ],
+   "airlines": [
+    "British Airways",
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6848,
+   "dur_min": 935,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "EI173",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 18:10",
+     "arr": "2027-04-07 19:35",
+     "dur_min": 85,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 515
+    }
+   ],
+   "airlines": [
+    "British Airways",
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6942,
+   "dur_min": 1665,
+   "segs": [
+    {
+     "fn": "A3929",
+     "airline": "Aegean",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-07 05:00",
+     "arr": "2027-04-07 07:10",
+     "dur_min": 130,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "QR208",
+     "airline": "Qatar Airways",
+     "operated_by": null,
+     "frm": "ATH",
+     "to": "DOH",
+     "dep": "2027-04-07 20:00",
+     "arr": "2027-04-08 00:20",
+     "dur_min": 260,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "QR19",
+     "airline": "Qatar Airways",
+     "operated_by": null,
+     "frm": "DOH",
+     "to": "DUB",
+     "dep": "2027-04-08 01:15",
+     "arr": "2027-04-08 06:45",
+     "dur_min": 450,
+     "aircraft": "Boeing 787"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ATH",
+     "dur_min": 770
+    },
+    {
+     "airport": "DOH",
+     "dur_min": 55
+    }
+   ],
+   "airlines": [
+    "Aegean",
+    "Qatar Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 6942,
+   "dur_min": 1665,
+   "segs": [
+    {
+     "fn": "A3929",
+     "airline": "Aegean",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-07 05:00",
+     "arr": "2027-04-07 07:10",
+     "dur_min": 130,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "QR204",
+     "airline": "Qatar Airways",
+     "operated_by": null,
+     "frm": "ATH",
+     "to": "DOH",
+     "dep": "2027-04-07 13:55",
+     "arr": "2027-04-07 18:15",
+     "dur_min": 260,
+     "aircraft": "Boeing 787"
+    },
+    {
+     "fn": "QR19",
+     "airline": "Qatar Airways",
+     "operated_by": null,
+     "frm": "DOH",
+     "to": "DUB",
+     "dep": "2027-04-08 01:15",
+     "arr": "2027-04-08 06:45",
+     "dur_min": 450,
+     "aircraft": "Boeing 787"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ATH",
+     "dur_min": 405
+    },
+    {
+     "airport": "DOH",
+     "dur_min": 420
+    }
+   ],
+   "airlines": [
+    "Aegean",
+    "Qatar Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 7138,
+   "dur_min": 640,
+   "segs": [
+    {
+     "fn": "LY315",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 10:10",
+     "arr": "2027-04-07 13:35",
+     "dur_min": 325,
+     "aircraft": "Boeing 787"
+    },
+    {
+     "fn": "BA832",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 17:20",
+     "arr": "2027-04-07 18:50",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 225
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 7138,
+   "dur_min": 680,
+   "segs": [
+    {
+     "fn": "LY315",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 10:10",
+     "arr": "2027-04-07 13:35",
+     "dur_min": 325,
+     "aircraft": "Boeing 787"
+    },
+    {
+     "fn": "BA834",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 18:05",
+     "arr": "2027-04-07 19:30",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 270
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 7138,
+   "dur_min": 1415,
+   "segs": [
+    {
+     "fn": "LY315",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 10:10",
+     "arr": "2027-04-07 13:35",
+     "dur_min": 325,
+     "aircraft": "Boeing 787"
+    },
+    {
+     "fn": "BA810",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-08 06:20",
+     "arr": "2027-04-08 07:45",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 1005
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 7282,
+   "dur_min": 665,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "BA4464",
+     "airline": "British Airways",
+     "operated_by": "BA Cityflyer",
+     "frm": "LCY",
+     "to": "DUB",
+     "dep": "2027-04-07 13:45",
+     "arr": "2027-04-07 15:05",
+     "dur_min": 80,
+     "aircraft": "Embraer 190"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 250
+    }
+   ],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 7282,
+   "dur_min": 725,
+   "segs": [
+    {
+     "fn": "BA405",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 06:00",
+     "arr": "2027-04-07 09:35",
+     "dur_min": 335,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "BA4466",
+     "airline": "British Airways",
+     "operated_by": "BA Cityflyer",
+     "frm": "LCY",
+     "to": "DUB",
+     "dep": "2027-04-07 14:45",
+     "arr": "2027-04-07 16:05",
+     "dur_min": 80,
+     "aircraft": "Embraer 190"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 310
+    }
+   ],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 7965,
+   "dur_min": 1575,
+   "segs": [
+    {
+     "fn": "EY610",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "AUH",
+     "dep": "2027-04-07 07:00",
+     "arr": "2027-04-07 11:15",
+     "dur_min": 195,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "EY45",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "AUH",
+     "to": "DUB",
+     "dep": "2027-04-08 02:10",
+     "arr": "2027-04-08 07:15",
+     "dur_min": 485,
+     "aircraft": "Boeing 777"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AUH",
+     "dur_min": 895
+    }
+   ],
+   "airlines": [
+    "Etihad"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 8062,
+   "dur_min": 1530,
+   "segs": [
+    {
+     "fn": "EY596",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "AUH",
+     "dep": "2027-04-07 07:45",
+     "arr": "2027-04-07 11:55",
+     "dur_min": 190,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "EY45",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "AUH",
+     "to": "DUB",
+     "dep": "2027-04-08 02:10",
+     "arr": "2027-04-08 07:15",
+     "dur_min": 485,
+     "aircraft": "Boeing 777"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AUH",
+     "dur_min": 855
+    }
+   ],
+   "airlines": [
+    "Etihad"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 8277,
+   "dur_min": 1210,
+   "segs": [
+    {
+     "fn": "EY600",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "AUH",
+     "dep": "2027-04-07 00:55",
+     "arr": "2027-04-07 05:10",
+     "dur_min": 195,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "EY47",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "AUH",
+     "to": "DUB",
+     "dep": "2027-04-07 14:00",
+     "arr": "2027-04-07 19:05",
+     "dur_min": 485,
+     "aircraft": "Boeing 787"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AUH",
+     "dur_min": 530
+    }
+   ],
+   "airlines": [
+    "Etihad"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 8277,
+   "dur_min": 845,
+   "segs": [
+    {
+     "fn": "EY610",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "AUH",
+     "dep": "2027-04-07 07:00",
+     "arr": "2027-04-07 11:15",
+     "dur_min": 195,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "EY47",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "AUH",
+     "to": "DUB",
+     "dep": "2027-04-07 14:00",
+     "arr": "2027-04-07 19:05",
+     "dur_min": 485,
+     "aircraft": "Boeing 787"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AUH",
+     "dur_min": 165
+    }
+   ],
+   "airlines": [
+    "Etihad"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 8375,
+   "dur_min": 800,
+   "segs": [
+    {
+     "fn": "EY596",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "AUH",
+     "dep": "2027-04-07 07:45",
+     "arr": "2027-04-07 11:55",
+     "dur_min": 190,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "EY47",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "AUH",
+     "to": "DUB",
+     "dep": "2027-04-07 14:00",
+     "arr": "2027-04-07 19:05",
+     "dur_min": 485,
+     "aircraft": "Boeing 787"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AUH",
+     "dur_min": 125
+    }
+   ],
+   "airlines": [
+    "Etihad"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 8375,
+   "dur_min": 1085,
+   "segs": [
+    {
+     "fn": "EY608",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "AUH",
+     "dep": "2027-04-07 15:10",
+     "arr": "2027-04-07 19:25",
+     "dur_min": 195,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "EY45",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "AUH",
+     "to": "DUB",
+     "dep": "2027-04-08 02:10",
+     "arr": "2027-04-08 07:15",
+     "dur_min": 485,
+     "aircraft": "Boeing 777"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AUH",
+     "dur_min": 405
+    }
+   ],
+   "airlines": [
+    "Etihad"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 8930,
+   "dur_min": 705,
+   "segs": [
+    {
+     "fn": "LY319",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "CDG",
+     "dep": "2027-04-07 05:40",
+     "arr": "2027-04-07 09:40",
+     "dur_min": 300,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "AF1116",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "CDG",
+     "to": "DUB",
+     "dep": "2027-04-07 14:30",
+     "arr": "2027-04-07 15:25",
+     "dur_min": 115,
+     "aircraft": "Airbus A220-300 Passenger"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "CDG",
+     "dur_min": 290
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "Air France"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 8930,
+   "dur_min": 595,
+   "segs": [
+    {
+     "fn": "LY221",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "CDG",
+     "dep": "2027-04-07 07:30",
+     "arr": "2027-04-07 11:30",
+     "dur_min": 300,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "AF1116",
+     "airline": "Air France",
+     "operated_by": null,
+     "frm": "CDG",
+     "to": "DUB",
+     "dep": "2027-04-07 14:30",
+     "arr": "2027-04-07 15:25",
+     "dur_min": 115,
+     "aircraft": "Airbus A220-300 Passenger"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "CDG",
+     "dur_min": 180
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "Air France"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 8943,
+   "dur_min": 590,
+   "segs": [
+    {
+     "fn": "KL462",
+     "airline": "KLM",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "AMS",
+     "dep": "2027-04-07 04:45",
+     "arr": "2027-04-07 08:40",
+     "dur_min": 295,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "KL1139",
+     "airline": "KLM",
+     "operated_by": "KLM Cityhopper",
+     "frm": "AMS",
+     "to": "DUB",
+     "dep": "2027-04-07 12:05",
+     "arr": "2027-04-07 12:35",
+     "dur_min": 90,
+     "aircraft": "Embraer 195 E2"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AMS",
+     "dur_min": 205
+    }
+   ],
+   "airlines": [
+    "KLM"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 8943,
+   "dur_min": 835,
+   "segs": [
+    {
+     "fn": "KL462",
+     "airline": "KLM",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "AMS",
+     "dep": "2027-04-07 04:45",
+     "arr": "2027-04-07 08:40",
+     "dur_min": 295,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "KL1141",
+     "airline": "KLM",
+     "operated_by": "KLM Cityhopper",
+     "frm": "AMS",
+     "to": "DUB",
+     "dep": "2027-04-07 16:05",
+     "arr": "2027-04-07 16:40",
+     "dur_min": 95,
+     "aircraft": "Embraer 195 E2"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AMS",
+     "dur_min": 445
+    }
+   ],
+   "airlines": [
+    "KLM"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 10757,
+   "dur_min": 1090,
+   "segs": [
+    {
+     "fn": "EY594",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "AUH",
+     "dep": "2027-04-07 15:05",
+     "arr": "2027-04-07 19:15",
+     "dur_min": 190,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "EY45",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "AUH",
+     "to": "DUB",
+     "dep": "2027-04-08 02:10",
+     "arr": "2027-04-08 07:15",
+     "dur_min": 485,
+     "aircraft": "Boeing 777"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AUH",
+     "dur_min": 415
+    }
+   ],
+   "airlines": [
+    "Etihad"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 10757,
+   "dur_min": 785,
+   "segs": [
+    {
+     "fn": "EY598",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "AUH",
+     "dep": "2027-04-07 20:10",
+     "arr": "2027-04-08 00:25",
+     "dur_min": 195,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "EY45",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "AUH",
+     "to": "DUB",
+     "dep": "2027-04-08 02:10",
+     "arr": "2027-04-08 07:15",
+     "dur_min": 485,
+     "aircraft": "Boeing 777"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AUH",
+     "dur_min": 105
+    }
+   ],
+   "airlines": [
+    "Etihad"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 10757,
+   "dur_min": 1495,
+   "segs": [
+    {
+     "fn": "EY598",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "AUH",
+     "dep": "2027-04-07 20:10",
+     "arr": "2027-04-08 00:25",
+     "dur_min": 195,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "EY47",
+     "airline": "Etihad",
+     "operated_by": null,
+     "frm": "AUH",
+     "to": "DUB",
+     "dep": "2027-04-08 14:00",
+     "arr": "2027-04-08 19:05",
+     "dur_min": 485,
+     "aircraft": "Boeing 787"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "AUH",
+     "dur_min": 815
+    }
+   ],
+   "airlines": [
+    "Etihad"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 12279,
+   "dur_min": 1290,
+   "segs": [
+    {
+     "fn": "LY343",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ZRH",
+     "dep": "2027-04-07 16:40",
+     "arr": "2027-04-07 20:00",
+     "dur_min": 260,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "LX400",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "ZRH",
+     "to": "DUB",
+     "dep": "2027-04-08 10:50",
+     "arr": "2027-04-08 12:10",
+     "dur_min": 140,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ZRH",
+     "dur_min": 890
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "SWISS"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 14248,
+   "dur_min": 1340,
+   "segs": [
+    {
+     "fn": "ET419",
+     "airline": "Ethiopian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ADD",
+     "dep": "2027-04-07 15:35",
+     "arr": "2027-04-07 19:50",
+     "dur_min": 255,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    },
+    {
+     "fn": "ET706",
+     "airline": "Ethiopian",
+     "operated_by": null,
+     "frm": "ADD",
+     "to": "FRA",
+     "dep": "2027-04-08 00:05",
+     "arr": "2027-04-08 06:25",
+     "dur_min": 440,
+     "aircraft": "Airbus A350"
+    },
+    {
+     "fn": "LH978",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-08 10:50",
+     "arr": "2027-04-08 11:55",
+     "dur_min": 125,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ADD",
+     "dur_min": 255
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 265
+    }
+   ],
+   "airlines": [
+    "Ethiopian",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 14761,
+   "dur_min": 1200,
+   "segs": [
+    {
+     "fn": "ET419",
+     "airline": "Ethiopian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ADD",
+     "dep": "2027-04-07 15:35",
+     "arr": "2027-04-07 19:50",
+     "dur_min": 255,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    },
+    {
+     "fn": "ET720",
+     "airline": "Ethiopian",
+     "operated_by": null,
+     "frm": "ADD",
+     "to": "IST",
+     "dep": "2027-04-07 23:10",
+     "arr": "2027-04-08 04:45",
+     "dur_min": 335,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    },
+    {
+     "fn": "TK1975",
+     "airline": "Turkish Airlines",
+     "operated_by": null,
+     "frm": "IST",
+     "to": "DUB",
+     "dep": "2027-04-08 06:55",
+     "arr": "2027-04-08 09:35",
+     "dur_min": 280,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ADD",
+     "dur_min": 200
+    },
+    {
+     "airport": "IST",
+     "dur_min": 130
+    }
+   ],
+   "airlines": [
+    "Ethiopian",
+    "Turkish Airlines"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 14944,
+   "dur_min": 1105,
+   "segs": [
+    {
+     "fn": "OS80",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "VIE",
+     "dep": "2027-04-07 15:30",
+     "arr": "2027-04-07 18:15",
+     "dur_min": 225,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "OS147",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "VIE",
+     "to": "ZRH",
+     "dep": "2027-04-07 20:05",
+     "arr": "2027-04-07 21:25",
+     "dur_min": 80,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "LX402",
+     "airline": "SWISS",
+     "operated_by": "Helvetic",
+     "frm": "ZRH",
+     "to": "DUB",
+     "dep": "2027-04-08 06:35",
+     "arr": "2027-04-08 07:55",
+     "dur_min": 140,
+     "aircraft": "Embraer 190 E2"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "VIE",
+     "dur_min": 110
+    },
+    {
+     "airport": "ZRH",
+     "dur_min": 550
+    }
+   ],
+   "airlines": [
+    "Austrian",
+    "SWISS"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 14963,
+   "dur_min": 705,
+   "segs": [
+    {
+     "fn": "SN3294",
+     "airline": "Brussels Airlines",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "BRU",
+     "dep": "2027-04-07 04:50",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 295,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "SN2093",
+     "airline": "Brussels Airlines",
+     "operated_by": null,
+     "frm": "BRU",
+     "to": "LHR",
+     "dep": "2027-04-07 09:55",
+     "arr": "2027-04-07 10:15",
+     "dur_min": 80,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "BA828",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 13:10",
+     "arr": "2027-04-07 14:35",
+     "dur_min": 85,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "BRU",
+     "dur_min": 70
+    },
+    {
+     "airport": "LHR",
+     "dur_min": 175
+    }
+   ],
+   "airlines": [
+    "Brussels Airlines",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 14963,
+   "dur_min": 850,
+   "segs": [
+    {
+     "fn": "SN3294",
+     "airline": "Brussels Airlines",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "BRU",
+     "dep": "2027-04-07 04:50",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 295,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "SN2093",
+     "airline": "Brussels Airlines",
+     "operated_by": null,
+     "frm": "BRU",
+     "to": "LHR",
+     "dep": "2027-04-07 09:55",
+     "arr": "2027-04-07 10:15",
+     "dur_min": 80,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "BA830",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 15:30",
+     "arr": "2027-04-07 17:00",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "BRU",
+     "dur_min": 70
+    },
+    {
+     "airport": "LHR",
+     "dur_min": 315
+    }
+   ],
+   "airlines": [
+    "Brussels Airlines",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 14963,
+   "dur_min": 960,
+   "segs": [
+    {
+     "fn": "SN3294",
+     "airline": "Brussels Airlines",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "BRU",
+     "dep": "2027-04-07 04:50",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 295,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "SN2093",
+     "airline": "Brussels Airlines",
+     "operated_by": null,
+     "frm": "BRU",
+     "to": "LHR",
+     "dep": "2027-04-07 09:55",
+     "arr": "2027-04-07 10:15",
+     "dur_min": 80,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "BA832",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 17:20",
+     "arr": "2027-04-07 18:50",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "BRU",
+     "dur_min": 70
+    },
+    {
+     "airport": "LHR",
+     "dur_min": 425
+    }
+   ],
+   "airlines": [
+    "Brussels Airlines",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 14963,
+   "dur_min": 1000,
+   "segs": [
+    {
+     "fn": "SN3294",
+     "airline": "Brussels Airlines",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "BRU",
+     "dep": "2027-04-07 04:50",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 295,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "SN2093",
+     "airline": "Brussels Airlines",
+     "operated_by": null,
+     "frm": "BRU",
+     "to": "LHR",
+     "dep": "2027-04-07 09:55",
+     "arr": "2027-04-07 10:15",
+     "dur_min": 80,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "BA834",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 18:05",
+     "arr": "2027-04-07 19:30",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "BRU",
+     "dur_min": 70
+    },
+    {
+     "airport": "LHR",
+     "dur_min": 470
+    }
+   ],
+   "airlines": [
+    "Brussels Airlines",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 14963,
+   "dur_min": 1050,
+   "segs": [
+    {
+     "fn": "SN3290",
+     "airline": "Brussels Airlines",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "BRU",
+     "dep": "2027-04-07 16:15",
+     "arr": "2027-04-07 20:05",
+     "dur_min": 290,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "SN2103",
+     "airline": "Brussels Airlines",
+     "operated_by": null,
+     "frm": "BRU",
+     "to": "LHR",
+     "dep": "2027-04-07 21:20",
+     "arr": "2027-04-07 21:35",
+     "dur_min": 75,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "BA810",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-08 06:20",
+     "arr": "2027-04-08 07:45",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "BRU",
+     "dur_min": 75
+    },
+    {
+     "airport": "LHR",
+     "dur_min": 525
+    }
+   ],
+   "airlines": [
+    "Brussels Airlines",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 14969,
+   "dur_min": 1095,
+   "segs": [
+    {
+     "fn": "OS80",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "VIE",
+     "dep": "2027-04-07 15:30",
+     "arr": "2027-04-07 18:15",
+     "dur_min": 225,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "OS339",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "VIE",
+     "to": "LHR",
+     "dep": "2027-04-07 20:20",
+     "arr": "2027-04-07 21:40",
+     "dur_min": 140,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "BA810",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-08 06:20",
+     "arr": "2027-04-08 07:45",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "VIE",
+     "dur_min": 125
+    },
+    {
+     "airport": "LHR",
+     "dur_min": 520
+    }
+   ],
+   "airlines": [
+    "Austrian",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 14995,
+   "dur_min": 705,
+   "segs": [
+    {
+     "fn": "SN3294",
+     "airline": "Brussels Airlines",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "BRU",
+     "dep": "2027-04-07 04:50",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 295,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "BA385",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "BRU",
+     "to": "LHR",
+     "dep": "2027-04-07 11:00",
+     "arr": "2027-04-07 11:20",
+     "dur_min": 80,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "BA828",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-07 13:10",
+     "arr": "2027-04-07 14:35",
+     "dur_min": 85,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "BRU",
+     "dur_min": 135
+    },
+    {
+     "airport": "LHR",
+     "dur_min": 110
+    }
+   ],
+   "airlines": [
+    "Brussels Airlines",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 15088,
+   "dur_min": 840,
+   "segs": [
+    {
+     "fn": "SN3294",
+     "airline": "Brussels Airlines",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "BRU",
+     "dep": "2027-04-07 04:50",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 295,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "LH1007",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "BRU",
+     "to": "FRA",
+     "dep": "2027-04-07 10:35",
+     "arr": "2027-04-07 11:35",
+     "dur_min": 60,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH980",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 15:45",
+     "arr": "2027-04-07 16:50",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "BRU",
+     "dur_min": 110
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 250
+    }
+   ],
+   "airlines": [
+    "Brussels Airlines",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 15088,
+   "dur_min": 840,
+   "segs": [
+    {
+     "fn": "SN3294",
+     "airline": "Brussels Airlines",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "BRU",
+     "dep": "2027-04-07 04:50",
+     "arr": "2027-04-07 08:45",
+     "dur_min": 295,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "LH1009",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "BRU",
+     "to": "FRA",
+     "dep": "2027-04-07 11:50",
+     "arr": "2027-04-07 12:50",
+     "dur_min": 60,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH980",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 15:45",
+     "arr": "2027-04-07 16:50",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "BRU",
+     "dur_min": 185
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 175
+    }
+   ],
+   "airlines": [
+    "Brussels Airlines",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 15132,
+   "dur_min": 1110,
+   "segs": [
+    {
+     "fn": "RO156",
+     "airline": "TAROM",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "OTP",
+     "dep": "2027-04-07 00:20",
+     "arr": "2027-04-07 02:05",
+     "dur_min": 105,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    },
+    {
+     "fn": "RO301",
+     "airline": "TAROM",
+     "operated_by": null,
+     "frm": "OTP",
+     "to": "FRA",
+     "dep": "2027-04-07 08:35",
+     "arr": "2027-04-07 10:15",
+     "dur_min": 160,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "LH980",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 15:45",
+     "arr": "2027-04-07 16:50",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "OTP",
+     "dur_min": 390
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 330
+    }
+   ],
+   "airlines": [
+    "TAROM",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 15186,
+   "dur_min": 1120,
+   "segs": [
+    {
+     "fn": "LY543",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-07 19:30",
+     "arr": "2027-04-07 21:40",
+     "dur_min": 130,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "LX1843",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "ATH",
+     "to": "ZRH",
+     "dep": "2027-04-08 06:55",
+     "arr": "2027-04-08 08:45",
+     "dur_min": 170,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LX400",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "ZRH",
+     "to": "DUB",
+     "dep": "2027-04-08 10:50",
+     "arr": "2027-04-08 12:10",
+     "dur_min": 140,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ATH",
+     "dur_min": 555
+    },
+    {
+     "airport": "ZRH",
+     "dur_min": 125
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "SWISS"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 15306,
+   "dur_min": 1115,
+   "segs": [
+    {
+     "fn": "OS80",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "VIE",
+     "dep": "2027-04-07 15:30",
+     "arr": "2027-04-07 18:15",
+     "dur_min": 225,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "OS219",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "VIE",
+     "to": "FRA",
+     "dep": "2027-04-07 19:25",
+     "arr": "2027-04-07 20:55",
+     "dur_min": 90,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "LH976",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-08 07:00",
+     "arr": "2027-04-08 08:05",
+     "dur_min": 125,
+     "aircraft": "Airbus A319"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "VIE",
+     "dur_min": 70
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 605
+    }
+   ],
+   "airlines": [
+    "Austrian",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 15306,
+   "dur_min": 1115,
+   "segs": [
+    {
+     "fn": "OS80",
+     "airline": "Austrian",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "VIE",
+     "dep": "2027-04-07 15:30",
+     "arr": "2027-04-07 18:15",
+     "dur_min": 225,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH1243",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "VIE",
+     "to": "FRA",
+     "dep": "2027-04-07 20:15",
+     "arr": "2027-04-07 21:35",
+     "dur_min": 80,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "LH976",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-08 07:00",
+     "arr": "2027-04-08 08:05",
+     "dur_min": 125,
+     "aircraft": "Airbus A319"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "VIE",
+     "dur_min": 120
+    },
+    {
+     "airport": "FRA",
+     "dur_min": 565
+    }
+   ],
+   "airlines": [
+    "Austrian",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 15308,
+   "dur_min": 1095,
+   "segs": [
+    {
+     "fn": "A3927",
+     "airline": "Aegean",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-07 19:55",
+     "arr": "2027-04-07 22:05",
+     "dur_min": 130,
+     "aircraft": "Airbus A320"
+    },
+    {
+     "fn": "LX1843",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "ATH",
+     "to": "ZRH",
+     "dep": "2027-04-08 06:55",
+     "arr": "2027-04-08 08:45",
+     "dur_min": 170,
+     "aircraft": "Airbus A321neo"
+    },
+    {
+     "fn": "LX400",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "ZRH",
+     "to": "DUB",
+     "dep": "2027-04-08 10:50",
+     "arr": "2027-04-08 12:10",
+     "dur_min": 140,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ATH",
+     "dur_min": 530
+    },
+    {
+     "airport": "ZRH",
+     "dur_min": 125
+    }
+   ],
+   "airlines": [
+    "Aegean",
+    "SWISS"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 15337,
+   "dur_min": 695,
+   "segs": [
+    {
+     "fn": "RO156",
+     "airline": "TAROM",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "OTP",
+     "dep": "2027-04-07 00:20",
+     "arr": "2027-04-07 02:05",
+     "dur_min": 105,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    },
+    {
+     "fn": "LH1655",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "OTP",
+     "to": "MUC",
+     "dep": "2027-04-07 06:15",
+     "arr": "2027-04-07 07:25",
+     "dur_min": 130,
+     "aircraft": "Airbus A321"
+    },
+    {
+     "fn": "LH2516",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "MUC",
+     "to": "DUB",
+     "dep": "2027-04-07 08:25",
+     "arr": "2027-04-07 09:55",
+     "dur_min": 150,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "OTP",
+     "dur_min": 250
+    },
+    {
+     "airport": "MUC",
+     "dur_min": 60
+    }
+   ],
+   "airlines": [
+    "TAROM",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 15603,
+   "dur_min": 830,
+   "segs": [
+    {
+     "fn": "RO156",
+     "airline": "TAROM",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "OTP",
+     "dep": "2027-04-07 00:20",
+     "arr": "2027-04-07 02:05",
+     "dur_min": 105,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    },
+    {
+     "fn": "LX1887",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "OTP",
+     "to": "ZRH",
+     "dep": "2027-04-07 06:20",
+     "arr": "2027-04-07 07:55",
+     "dur_min": 155,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "LX400",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "ZRH",
+     "to": "DUB",
+     "dep": "2027-04-07 10:50",
+     "arr": "2027-04-07 12:10",
+     "dur_min": 140,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "OTP",
+     "dur_min": 255
+    },
+    {
+     "airport": "ZRH",
+     "dur_min": 175
+    }
+   ],
+   "airlines": [
+    "TAROM",
+    "SWISS"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 15603,
+   "dur_min": 1170,
+   "segs": [
+    {
+     "fn": "RO156",
+     "airline": "TAROM",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "OTP",
+     "dep": "2027-04-07 00:20",
+     "arr": "2027-04-07 02:05",
+     "dur_min": 105,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    },
+    {
+     "fn": "LX1887",
+     "airline": "SWISS",
+     "operated_by": null,
+     "frm": "OTP",
+     "to": "ZRH",
+     "dep": "2027-04-07 06:20",
+     "arr": "2027-04-07 07:55",
+     "dur_min": 155,
+     "aircraft": "Airbus A320neo"
+    },
+    {
+     "fn": "LX404",
+     "airline": "SWISS",
+     "operated_by": "Helvetic",
+     "frm": "ZRH",
+     "to": "DUB",
+     "dep": "2027-04-07 16:30",
+     "arr": "2027-04-07 17:50",
+     "dur_min": 140,
+     "aircraft": "Embraer 190 E2"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "OTP",
+     "dur_min": 255
+    },
+    {
+     "airport": "ZRH",
+     "dur_min": 515
+    }
+   ],
+   "airlines": [
+    "TAROM",
+    "SWISS"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": null,
+   "dur_min": 765,
+   "segs": [
+    {
+     "fn": "LY357",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 06:05",
+     "arr": "2027-04-07 09:40",
+     "dur_min": 275,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "LH980",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 15:45",
+     "arr": "2027-04-07 16:50",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 365
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": null,
+   "dur_min": 1090,
+   "segs": [
+    {
+     "fn": "LY357",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "FRA",
+     "dep": "2027-04-07 06:05",
+     "arr": "2027-04-07 09:40",
+     "dur_min": 275,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "LH982",
+     "airline": "Lufthansa",
+     "operated_by": null,
+     "frm": "FRA",
+     "to": "DUB",
+     "dep": "2027-04-07 21:10",
+     "arr": "2027-04-07 22:15",
+     "dur_min": 125,
+     "aircraft": "Airbus A321"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "FRA",
+     "dur_min": 690
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "Lufthansa"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": null,
+   "dur_min": 1035,
+   "segs": [
+    {
+     "fn": "LY343",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ZRH",
+     "dep": "2027-04-07 16:40",
+     "arr": "2027-04-07 20:00",
+     "dur_min": 260,
+     "aircraft": "Boeing 737"
+    },
+    {
+     "fn": "LX402",
+     "airline": "SWISS",
+     "operated_by": "Helvetic",
+     "frm": "ZRH",
+     "to": "DUB",
+     "dep": "2027-04-08 06:35",
+     "arr": "2027-04-08 07:55",
+     "dur_min": 140,
+     "aircraft": "Embraer 190 E2"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "ZRH",
+     "dur_min": 635
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "SWISS"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": null,
+   "dur_min": 1005,
+   "segs": [
+    {
+     "fn": "LY317",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 17:00",
+     "arr": "2027-04-07 20:20",
+     "dur_min": 320,
+     "aircraft": "Boeing 787"
+    },
+    {
+     "fn": "BA810",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-08 06:20",
+     "arr": "2027-04-08 07:45",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 600
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": null,
+   "dur_min": 1025,
+   "segs": [
+    {
+     "fn": "LY317",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 17:00",
+     "arr": "2027-04-07 20:20",
+     "dur_min": 320,
+     "aircraft": "Boeing 787"
+    },
+    {
+     "fn": "BA4460",
+     "airline": "British Airways",
+     "operated_by": "BA Cityflyer",
+     "frm": "LCY",
+     "to": "DUB",
+     "dep": "2027-04-08 06:45",
+     "arr": "2027-04-08 08:05",
+     "dur_min": 80,
+     "aircraft": "Embraer 190"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 625
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": null,
+   "dur_min": 1120,
+   "segs": [
+    {
+     "fn": "LY317",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 17:00",
+     "arr": "2027-04-07 20:20",
+     "dur_min": 320,
+     "aircraft": "Boeing 787"
+    },
+    {
+     "fn": "BA824",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-08 08:15",
+     "arr": "2027-04-08 09:40",
+     "dur_min": 85,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 715
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": null,
+   "dur_min": 1175,
+   "segs": [
+    {
+     "fn": "LY317",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 17:00",
+     "arr": "2027-04-07 20:20",
+     "dur_min": 320,
+     "aircraft": "Boeing 787"
+    },
+    {
+     "fn": "BA4462",
+     "airline": "British Airways",
+     "operated_by": "BA Cityflyer",
+     "frm": "LCY",
+     "to": "DUB",
+     "dep": "2027-04-08 09:10",
+     "arr": "2027-04-08 10:35",
+     "dur_min": 85,
+     "aircraft": "Embraer 190"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 770
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": null,
+   "dur_min": 1265,
+   "segs": [
+    {
+     "fn": "LY317",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 17:00",
+     "arr": "2027-04-07 20:20",
+     "dur_min": 320,
+     "aircraft": "Boeing 787"
+    },
+    {
+     "fn": "BA826",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-08 10:35",
+     "arr": "2027-04-08 12:05",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 855
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": null,
+   "dur_min": 1315,
+   "segs": [
+    {
+     "fn": "LY317",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 17:00",
+     "arr": "2027-04-07 20:20",
+     "dur_min": 320,
+     "aircraft": "Boeing 787"
+    },
+    {
+     "fn": "BA828",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-08 11:30",
+     "arr": "2027-04-08 12:55",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 910
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": null,
+   "dur_min": 1415,
+   "segs": [
+    {
+     "fn": "LY317",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "LHR",
+     "dep": "2027-04-07 17:00",
+     "arr": "2027-04-07 20:20",
+     "dur_min": 320,
+     "aircraft": "Boeing 787"
+    },
+    {
+     "fn": "BA830",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-08 13:05",
+     "arr": "2027-04-08 14:35",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [
+    {
+     "airport": "LHR",
+     "dur_min": 1005
+    }
+   ],
+   "airlines": [
+    "El Al",
+    "British Airways"
+   ]
+  }
+ ],
+ "text": ""
+}

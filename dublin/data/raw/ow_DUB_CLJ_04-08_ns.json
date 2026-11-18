@@ -1,0 +1,53 @@
+{
+ "observed": "2026-11-18T00:25:32+02:00",
+ "url": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjctMDQtMDgoAGoHCAESA0RVQnIHCAESA0NMSkIDAQEBSAGYAQI&hl=en&curr=ILS",
+ "final_url": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjctMDQtMDgoAGoHCAESA0RVQnIHCAESA0NMSkIDAQEBSAGYAQI&hl=en&curr=ILS",
+ "expanded": false,
+ "rows": [
+  {
+   "section": "other",
+   "price_total": 870,
+   "dur_min": 195,
+   "segs": [
+    {
+     "fn": "FR9589",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "CLJ",
+     "dep": "2027-04-08 17:30",
+     "arr": "2027-04-08 22:45",
+     "dur_min": 195,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": null,
+   "dur_min": 190,
+   "segs": [
+    {
+     "fn": "H4252",
+     "airline": "HiSky Europe SRL",
+     "operated_by": null,
+     "frm": "DUB",
+     "to": "CLJ",
+     "dep": "2027-04-08 23:50",
+     "arr": "2027-04-09 05:00",
+     "dur_min": 190,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "HiSky Europe SRL"
+   ]
+  }
+ ],
+ "text": ""
+}

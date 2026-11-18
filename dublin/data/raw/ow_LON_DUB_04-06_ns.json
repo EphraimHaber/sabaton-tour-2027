@@ -1,0 +1,1043 @@
+{
+ "observed": "2026-11-18T00:23:04+02:00",
+ "url": "https://www.google.com/travel/flights/search?tfs=GkQSCjIwMjctMDQtMDYoAGoHCAESA0xIUmoHCAESA0xHV2oHCAESA0xUTmoHCAESA1NUTmoHCAESA0xDWXIHCAESA0RVQkIDAQEBSAGYAQI&hl=en&curr=ILS",
+ "final_url": "https://www.google.com/travel/flights/search?tfs=GkQSCjIwMjctMDQtMDYoAGoHCAESA0xIUmoHCAESA0xHV2oHCAESA0xUTmoHCAESA1NUTmoHCAESA0xDWXIHCAESA0RVQkIDAQEBSAGYAQI&hl=en&curr=ILS",
+ "expanded": false,
+ "rows": [
+  {
+   "section": "best",
+   "price_total": 349,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "FR339",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "LTN",
+     "to": "DUB",
+     "dep": "2027-04-06 09:30",
+     "arr": "2027-04-06 10:50",
+     "dur_min": 80,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "best",
+   "price_total": 830,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "BA834",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 18:10",
+     "arr": "2027-04-06 19:35",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "best",
+   "price_total": 1030,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "EI161",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 15:10",
+     "arr": "2027-04-06 16:35",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 349,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "FR331",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "LTN",
+     "to": "DUB",
+     "dep": "2027-04-06 19:00",
+     "arr": "2027-04-06 20:20",
+     "dur_min": 80,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 458,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "FR31",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "STN",
+     "to": "DUB",
+     "dep": "2027-04-06 16:00",
+     "arr": "2027-04-06 17:20",
+     "dur_min": 80,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 461,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "FR143",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "LGW",
+     "to": "DUB",
+     "dep": "2027-04-06 13:10",
+     "arr": "2027-04-06 14:35",
+     "dur_min": 85,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 461,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "FR117",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "LGW",
+     "to": "DUB",
+     "dep": "2027-04-06 21:30",
+     "arr": "2027-04-06 22:55",
+     "dur_min": 85,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 491,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "FR289",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "STN",
+     "to": "DUB",
+     "dep": "2027-04-06 06:30",
+     "arr": "2027-04-06 07:50",
+     "dur_min": 80,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 568,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "FR210",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "STN",
+     "to": "DUB",
+     "dep": "2027-04-06 21:45",
+     "arr": "2027-04-06 23:05",
+     "dur_min": 80,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 629,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "FR127",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "LGW",
+     "to": "DUB",
+     "dep": "2027-04-06 20:35",
+     "arr": "2027-04-06 22:00",
+     "dur_min": 85,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 697,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "FR338",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "LTN",
+     "to": "DUB",
+     "dep": "2027-04-06 16:55",
+     "arr": "2027-04-06 18:15",
+     "dur_min": 80,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 736,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "FR291",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "STN",
+     "to": "DUB",
+     "dep": "2027-04-06 20:05",
+     "arr": "2027-04-06 21:25",
+     "dur_min": 80,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 774,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "FR256",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "STN",
+     "to": "DUB",
+     "dep": "2027-04-06 15:30",
+     "arr": "2027-04-06 16:50",
+     "dur_min": 80,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 826,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "FR287",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "STN",
+     "to": "DUB",
+     "dep": "2027-04-06 17:45",
+     "arr": "2027-04-06 19:05",
+     "dur_min": 80,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 830,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "BA824",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 06:20",
+     "arr": "2027-04-06 07:45",
+     "dur_min": 85,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 839,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "FR119",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "LGW",
+     "to": "DUB",
+     "dep": "2027-04-06 08:50",
+     "arr": "2027-04-06 10:15",
+     "dur_min": 85,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 852,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "FR123",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "LGW",
+     "to": "DUB",
+     "dep": "2027-04-06 09:40",
+     "arr": "2027-04-06 11:05",
+     "dur_min": 85,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 877,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "FR341",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "LTN",
+     "to": "DUB",
+     "dep": "2027-04-06 14:50",
+     "arr": "2027-04-06 16:10",
+     "dur_min": 80,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 903,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "FR307",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "LGW",
+     "to": "DUB",
+     "dep": "2027-04-06 11:55",
+     "arr": "2027-04-06 13:20",
+     "dur_min": 85,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 934,
+   "dur_min": 90,
+   "segs": [
+    {
+     "fn": "BA832",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 17:10",
+     "arr": "2027-04-06 18:40",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 942,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "FR203",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "STN",
+     "to": "DUB",
+     "dep": "2027-04-06 11:15",
+     "arr": "2027-04-06 12:35",
+     "dur_min": 80,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 968,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "FR271",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "STN",
+     "to": "DUB",
+     "dep": "2027-04-06 08:15",
+     "arr": "2027-04-06 09:35",
+     "dur_min": 80,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1030,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "EI151",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 07:40",
+     "arr": "2027-04-06 09:00",
+     "dur_min": 80,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1030,
+   "dur_min": 90,
+   "segs": [
+    {
+     "fn": "EI155",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 09:50",
+     "arr": "2027-04-06 11:20",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1030,
+   "dur_min": 90,
+   "segs": [
+    {
+     "fn": "EI159",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 12:00",
+     "arr": "2027-04-06 13:30",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1030,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "EI163",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 13:25",
+     "arr": "2027-04-06 14:50",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1030,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "EI165",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 14:20",
+     "arr": "2027-04-06 15:45",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1030,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "EI167",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 15:50",
+     "arr": "2027-04-06 17:15",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1030,
+   "dur_min": 90,
+   "segs": [
+    {
+     "fn": "EI169",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 16:50",
+     "arr": "2027-04-06 18:20",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1030,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "EI173",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 18:10",
+     "arr": "2027-04-06 19:35",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1030,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "EI177",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 19:35",
+     "arr": "2027-04-06 20:55",
+     "dur_min": 80,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1030,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "EI183",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 21:10",
+     "arr": "2027-04-06 22:30",
+     "dur_min": 80,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1045,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "FR205",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "STN",
+     "to": "DUB",
+     "dep": "2027-04-06 13:00",
+     "arr": "2027-04-06 14:20",
+     "dur_min": 80,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1058,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "FR113",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "LGW",
+     "to": "DUB",
+     "dep": "2027-04-06 15:05",
+     "arr": "2027-04-06 16:30",
+     "dur_min": 85,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1058,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "FR121",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "LGW",
+     "to": "DUB",
+     "dep": "2027-04-06 17:25",
+     "arr": "2027-04-06 18:50",
+     "dur_min": 85,
+     "aircraft": "Boeing 737MAX 8 Passenger"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1063,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "BA826",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 08:15",
+     "arr": "2027-04-06 09:40",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1095,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "EI153",
+     "airline": "Aer Lingus",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 08:50",
+     "arr": "2027-04-06 10:15",
+     "dur_min": 85,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aer Lingus"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1097,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "FR115",
+     "airline": "Ryanair",
+     "operated_by": null,
+     "frm": "LGW",
+     "to": "DUB",
+     "dep": "2027-04-06 19:50",
+     "arr": "2027-04-06 21:15",
+     "dur_min": 85,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Ryanair"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1148,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "BA4460",
+     "airline": "British Airways",
+     "operated_by": "BA Cityflyer",
+     "frm": "LCY",
+     "to": "DUB",
+     "dep": "2027-04-06 06:45",
+     "arr": "2027-04-06 08:05",
+     "dur_min": 80,
+     "aircraft": "Embraer 190"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1148,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "BA4462",
+     "airline": "British Airways",
+     "operated_by": "BA Cityflyer",
+     "frm": "LCY",
+     "to": "DUB",
+     "dep": "2027-04-06 09:10",
+     "arr": "2027-04-06 10:35",
+     "dur_min": 85,
+     "aircraft": "Embraer 190"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1148,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "BA4464",
+     "airline": "British Airways",
+     "operated_by": "BA Cityflyer",
+     "frm": "LCY",
+     "to": "DUB",
+     "dep": "2027-04-06 13:45",
+     "arr": "2027-04-06 15:05",
+     "dur_min": 80,
+     "aircraft": "Embraer 190"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1148,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "BA4466",
+     "airline": "British Airways",
+     "operated_by": "BA Cityflyer",
+     "frm": "LCY",
+     "to": "DUB",
+     "dep": "2027-04-06 14:45",
+     "arr": "2027-04-06 16:05",
+     "dur_min": 80,
+     "aircraft": "Embraer 190"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1148,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "BA4472",
+     "airline": "British Airways",
+     "operated_by": "BA Cityflyer",
+     "frm": "LCY",
+     "to": "DUB",
+     "dep": "2027-04-06 17:15",
+     "arr": "2027-04-06 18:40",
+     "dur_min": 85,
+     "aircraft": "Embraer 190"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1148,
+   "dur_min": 85,
+   "segs": [
+    {
+     "fn": "BA4468",
+     "airline": "British Airways",
+     "operated_by": "BA Cityflyer",
+     "frm": "LCY",
+     "to": "DUB",
+     "dep": "2027-04-06 18:05",
+     "arr": "2027-04-06 19:30",
+     "dur_min": 85,
+     "aircraft": "Embraer 190"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1148,
+   "dur_min": 80,
+   "segs": [
+    {
+     "fn": "BA4470",
+     "airline": "British Airways",
+     "operated_by": "BA Cityflyer",
+     "frm": "LCY",
+     "to": "DUB",
+     "dep": "2027-04-06 20:30",
+     "arr": "2027-04-06 21:50",
+     "dur_min": 80,
+     "aircraft": "Embraer 190"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1243,
+   "dur_min": 90,
+   "segs": [
+    {
+     "fn": "BA830",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 13:00",
+     "arr": "2027-04-06 14:30",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "British Airways"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1682,
+   "dur_min": 90,
+   "segs": [
+    {
+     "fn": "BA828",
+     "airline": "British Airways",
+     "operated_by": null,
+     "frm": "LHR",
+     "to": "DUB",
+     "dep": "2027-04-06 10:30",
+     "arr": "2027-04-06 12:00",
+     "dur_min": 90,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "British Airways"
+   ]
+  }
+ ],
+ "text": ""
+}

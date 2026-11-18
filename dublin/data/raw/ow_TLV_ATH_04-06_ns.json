@@ -1,0 +1,273 @@
+{
+ "observed": "2026-11-18T00:25:11+02:00",
+ "url": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjctMDQtMDYoAGoHCAESA1RMVnIHCAESA0FUSEIDAQEBSAGYAQI&hl=en&curr=ILS",
+ "final_url": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjctMDQtMDYoAGoHCAESA1RMVnIHCAESA0FUSEIDAQEBSAGYAQI&hl=en&curr=ILS",
+ "expanded": false,
+ "rows": [
+  {
+   "section": "best",
+   "price_total": 782,
+   "dur_min": 135,
+   "segs": [
+    {
+     "fn": "6H561",
+     "airline": "Israir Airlines",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-06 20:20",
+     "arr": "2027-04-06 22:35",
+     "dur_min": 135,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Israir Airlines"
+   ]
+  },
+  {
+   "section": "best",
+   "price_total": 786,
+   "dur_min": 135,
+   "segs": [
+    {
+     "fn": "GQ721",
+     "airline": "SKY express",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-06 23:30",
+     "arr": "2027-04-07 01:45",
+     "dur_min": 135,
+     "aircraft": "Airbus A320neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "SKY express"
+   ]
+  },
+  {
+   "section": "best",
+   "price_total": 1006,
+   "dur_min": 135,
+   "segs": [
+    {
+     "fn": "6H563",
+     "airline": "Israir Airlines",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-06 07:45",
+     "arr": "2027-04-06 10:00",
+     "dur_min": 135,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Israir Airlines"
+   ]
+  },
+  {
+   "section": "best",
+   "price_total": 1172,
+   "dur_min": 130,
+   "segs": [
+    {
+     "fn": "A3929",
+     "airline": "Aegean",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-06 05:00",
+     "arr": "2027-04-06 07:10",
+     "dur_min": 130,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aegean"
+   ]
+  },
+  {
+   "section": "best",
+   "price_total": 1316,
+   "dur_min": 130,
+   "segs": [
+    {
+     "fn": "LY545",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-06 17:35",
+     "arr": "2027-04-06 19:45",
+     "dur_min": 130,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "El Al"
+   ]
+  },
+  {
+   "section": "best",
+   "price_total": null,
+   "dur_min": 130,
+   "segs": [
+    {
+     "fn": "IZ211",
+     "airline": "Arkia",
+     "operated_by": "Bul Air",
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-06 06:00",
+     "arr": "2027-04-06 08:10",
+     "dur_min": 130,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Arkia"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1172,
+   "dur_min": 130,
+   "segs": [
+    {
+     "fn": "A3927",
+     "airline": "Aegean",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-06 19:55",
+     "arr": "2027-04-06 22:05",
+     "dur_min": 130,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aegean"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1316,
+   "dur_min": 130,
+   "segs": [
+    {
+     "fn": "LY543",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-06 19:30",
+     "arr": "2027-04-06 21:40",
+     "dur_min": 130,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "El Al"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1397,
+   "dur_min": 140,
+   "segs": [
+    {
+     "fn": "W48401",
+     "airline": "Wizz Air",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-06 12:55",
+     "arr": "2027-04-06 15:15",
+     "dur_min": 140,
+     "aircraft": "Airbus A321neo"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Wizz Air"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 1797,
+   "dur_min": 130,
+   "segs": [
+    {
+     "fn": "A3925",
+     "airline": "Aegean",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-06 13:50",
+     "arr": "2027-04-06 16:00",
+     "dur_min": 130,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Aegean"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": 2048,
+   "dur_min": 130,
+   "segs": [
+    {
+     "fn": "LY541",
+     "airline": "El Al",
+     "operated_by": null,
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-06 07:05",
+     "arr": "2027-04-06 09:15",
+     "dur_min": 130,
+     "aircraft": "Boeing 737"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "El Al"
+   ]
+  },
+  {
+   "section": "other",
+   "price_total": null,
+   "dur_min": 130,
+   "segs": [
+    {
+     "fn": "IZ213",
+     "airline": "Arkia",
+     "operated_by": "Bul Air",
+     "frm": "TLV",
+     "to": "ATH",
+     "dep": "2027-04-06 20:25",
+     "arr": "2027-04-06 22:35",
+     "dur_min": 130,
+     "aircraft": "Airbus A320"
+    }
+   ],
+   "layovers": [],
+   "airlines": [
+    "Arkia"
+   ]
+  }
+ ],
+ "text": ""
+}

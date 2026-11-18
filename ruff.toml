@@ -1,0 +1,14 @@
+target-version = "py312"
+line-length = 100
+extend-exclude = [".venv"]
+fix = true
+
+[lint]
+select = ["E", "F", "W", "I", "UP", "B", "SIM"]
+ignore = ["E501"]
+fixable = ["E401", "I001"]
+
+[format]
+quote-style = "double"
+indent-style = "space"
+line-ending = "lf"
